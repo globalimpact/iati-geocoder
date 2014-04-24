@@ -1,4 +1,4 @@
-This is a fork with the hopes of adding and conforming this API to fit with IATI standards and add models to cover the IATI API http://data.aidinfolabs.org/data/codelist/
+This is a fork with the hopes of adding and conforming this gem to fit with IATI standards and add models to cover the IATI API http://data.aidinfolabs.org/data/codelist/
 
 Countries
 =========
