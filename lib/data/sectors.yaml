@@ -1,11 +1,5 @@
 ---
-  name: "Sector"
-  date-last-modified: "2013-03-20T16:37:03.457Z"
-  version: "1.01"
-  xml:lang: "en"
-  Sector: 
-    - 
-      code: "11110"
+    11110:
       name: "Education policy and administrative management"
       description: "Education sector policy, planning and programmes; aid to education ministries,\n            administration and management systems; institution capacity building and advice; school\n            management and governance; curriculum and materials development; unspecified education\n            activities."
       category: "111"
