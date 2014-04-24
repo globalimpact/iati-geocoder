@@ -1,1414 +1,1213 @@
 ---
-    11110:
-      name: "Education policy and administrative management"
-      description: "Education sector policy, planning and programmes; aid to education ministries,\n            administration and management systems; institution capacity building and advice; school\n            management and governance; curriculum and materials development; unspecified education\n            activities."
-      category: "111"
-      category-name: "Education, level unspecified"
-      category-description: "The codes in this category are to be used only when level of education\n            is unspecified or unknown (e.g. training of primary school teachers should be coded\n            under 11220)."
-    - 
-      code: "11120"
-      name: "Education facilities and training"
-      description: "Educational buildings, equipment, materials; subsidiary services to education\n            (boarding facilities, staff housing); language training; colloquia, seminars, lectures,\n            etc."
-      category: "111"
-      category-name: "Education, level unspecified"
-      category-description: "The codes in this category are to be used only when level of education\n            is unspecified or unknown (e.g. training of primary school teachers should be coded\n            under 11220)."
-    - 
-      code: "11130"
-      name: "Teacher training"
-      description: "Teacher education (where the level of education is unspecified); in-service and\n            pre-service training; materials development."
-      category: "111"
-      category-name: "Education, level unspecified"
-      category-description: "The codes in this category are to be used only when level of education\n            is unspecified or unknown (e.g. training of primary school teachers should be coded\n            under 11220)."
-    - 
-      code: "11182"
-      name: "Educational research"
-      description: "Research and studies on education effectiveness, relevance and quality;\n            systematic evaluation and monitoring."
-      category: "111"
-      category-name: "Education, level unspecified"
-      category-description: "The codes in this category are to be used only when level of education\n            is unspecified or unknown (e.g. training of primary school teachers should be coded\n            under 11220)."
-    - 
-      code: "11220"
-      name: "Primary education"
-      description: "Formal and non-formal primary education for children; all elementary and first\n            cycle systematic instruction; provision of learning materials."
-      category: "112"
-      category-name: "Basic education"
-      category-description: null
-    - 
-      code: "11230"
-      name: "Basic life skills for youth and adults"
-      description: "Formal and non-formal education for basic life skills for young people and\n            adults (adults education); literacy and numeracy training."
-      category: "112"
-      category-name: "Basic education"
-      category-description: null
-    - 
-      code: "11240"
-      name: "Early childhood education"
-      description: "Formal and non-formal pre-school education."
-      category: "112"
-      category-name: "Basic education"
-      category-description: null
-    - 
-      code: "11320"
-      name: "Secondary education"
-      description: "Second cycle systematic instruction at both junior and senior\n            levels."
-      category: "113"
-      category-name: "Secondary education"
-      category-description: null
-    - 
-      code: "11330"
-      name: "Vocational training"
-      description: "Elementary vocational training and secondary level technical education; on-the\n            job training; apprenticeships; including informal vocational training."
-      category: "113"
-      category-name: "Secondary education"
-      category-description: null
-    - 
-      code: "11420"
-      name: "Higher education"
-      description: "Degree and diploma programmes at universities, colleges and polytechnics;\n            scholarships."
-      category: "114"
-      category-name: "Post-secondary education"
-      category-description: null
-    - 
-      code: "11430"
-      name: "Advanced technical and managerial training"
-      description: "Professional-level vocational training programmes and in-service\n            training."
-      category: "114"
-      category-name: "Post-secondary education"
-      category-description: null
-    - 
-      code: "12110"
-      name: "Health policy and administrative management"
-      description: "Health sector policy, planning and programmes; aid to health ministries, public\n            health administration; institution capacity building and advice; medical insurance\n            programmes; unspecified health activities."
-      category: "121"
-      category-name: "Health, general"
-      category-description: null
-    - 
-      code: "12181"
-      name: "Medical education/training"
-      description: "Medical education and training for tertiary level services."
-      category: "121"
-      category-name: "Health, general"
-      category-description: null
-    - 
-      code: "12182"
-      name: "Medical research"
-      description: "General medical research (excluding basic health research)."
-      category: "121"
-      category-name: "Health, general"
-      category-description: null
-    - 
-      code: "12191"
-      name: "Medical services"
-      description: "Laboratories, specialised clinics and hospitals (including equipment and\n            supplies); ambulances; dental services; mental health care; medical rehabilitation;\n            control of non-infectious diseases; drug and substance abuse control [excluding\n            narcotics traffic control (16063)]."
-      category: "121"
-      category-name: "Health, general"
-      category-description: null
-    - 
-      code: "12220"
-      name: "Basic health care"
-      description: "Basic and primary health care programmes; paramedical and nursing care\n            programmes; supply of drugs, medicines and vaccines related to basic health\n            care."
-      category: "122"
-      category-name: "Basic health"
-      category-description: null
-    - 
-      code: "12230"
-      name: "Basic health infrastructure"
-      description: "District-level hospitals, clinics and dispensaries and related medical\n            equipment; excluding specialised hospitals and clinics (12191)."
-      category: "122"
-      category-name: "Basic health"
-      category-description: null
-    - 
-      code: "12240"
-      name: "Basic nutrition"
-      description: "Direct feeding programmes (maternal feeding, breastfeeding and weaning foods,\n            child feeding, school feeding); determination of micro-nutrient deficiencies; provision\n            of vitamin A, iodine, iron etc.; monitoring of nutritional status; nutrition and food\n            hygiene education; household food security."
-      category: "122"
-      category-name: "Basic health"
-      category-description: null
-    - 
-      code: "12250"
-      name: "Infectious disease control"
-      description: "Immunisation; prevention and control of infectious and parasite diseases,\n            except malaria (12262), tuberculosis (12263), HIV/AIDS and other STDs (13040). It\n            includes diarrheal diseases, vector-borne diseases (e.g. river blindness and guinea\n            worm), viral diseases, mycosis, helminthiasis, zoonosis, diseases by other bacteria and\n            viruses, pediculosis, etc."
-      category: "122"
-      category-name: "Basic health"
-      category-description: null
-    - 
-      code: "12261"
-      name: "Health education"
-      description: "Information, education and training of the population for improving health\n            knowledge and practices; public health and awareness campaigns."
-      category: "122"
-      category-name: "Basic health"
-      category-description: null
-    - 
-      code: "12262"
-      name: "Malaria control"
-      description: "Prevention and control of malaria."
-      category: "122"
-      category-name: "Basic health"
-      category-description: null
-    - 
-      code: "12263"
-      name: "Tuberculosis control"
-      description: "Immunisation, prevention and control of tuberculosis."
-      category: "122"
-      category-name: "Basic health"
-      category-description: null
-    - 
-      code: "12281"
-      name: "Health personnel development"
-      description: "Training of health staff for basic health care services."
-      category: "122"
-      category-name: "Basic health"
-      category-description: null
-    - 
-      code: "13010"
-      name: "Population policy and administrative management"
-      description: "Population/development policies; census work, vital registration; migration\n            data; demographic research/analysis; reproductive health research; unspecified\n            population activities."
-      category: "130"
-      category-name: "POPULATION POLICIES/PROGRAMMES AND REPRODUCTIVE HEALTH"
-      category-description: null
-    - 
-      code: "13020"
-      name: "Reproductive health care"
-      description: "Promotion of reproductive health; prenatal and postnatal care including\n            delivery; prevention and treatment of infertility; prevention and management of\n            consequences of abortion; safe motherhood activities."
-      category: "130"
-      category-name: "POPULATION POLICIES/PROGRAMMES AND REPRODUCTIVE HEALTH"
-      category-description: null
-    - 
-      code: "13030"
-      name: "Family planning"
-      description: "Family planning services including counselling; information, education and\n            communication (IEC) activities; delivery of contraceptives; capacity building and\n            training."
-      category: "130"
-      category-name: "POPULATION POLICIES/PROGRAMMES AND REPRODUCTIVE HEALTH"
-      category-description: null
-    - 
-      code: "13040"
-      name: "STD control including HIV/AIDS"
-      description: "All activities related to sexually transmitted diseases and HIV/AIDS control\n            e.g. information, education and communication; testing; prevention; treatment,\n            care."
-      category: "130"
-      category-name: "POPULATION POLICIES/PROGRAMMES AND REPRODUCTIVE HEALTH"
-      category-description: null
-    - 
-      code: "13081"
-      name: "Personnel development for population and reproductive health"
-      description: "Education and training of health staff for population and reproductive health\n            care services."
-      category: "130"
-      category-name: "POPULATION POLICIES/PROGRAMMES AND REPRODUCTIVE HEALTH"
-      category-description: null
-    - 
-      code: "14010"
-      name: "Water resources policy and administrative management"
-      description: "Water sector policy, planning and programmes; water legislation and management;\n            institution capacity building and advice; water supply assessments and studies;\n            groundwater, water quality and watershed studies; hydrogeology; excluding agricultural\n            water resources (31140)."
-      category: "140"
-      category-name: "WATER AND SANITATION"
-      category-description: null
-    - 
-      code: "14015"
-      name: "Water resources protection"
-      description: "Inland surface waters (rivers, lakes, etc.); conservation and rehabilitation of\n            ground water; prevention of water contamination from agro-chemicals, industrial\n            effluents."
-      category: "140"
-      category-name: "WATER AND SANITATION"
-      category-description: null
-    - 
-      code: "14020"
-      name: "Water supply and sanitation - large systems"
-      description: "Water desalination plants; intakes, storage, treatment, pumping stations,\n            conveyance and distribution systems; sewerage; domestic and industrial waste water\n            treatment plants."
-      category: "140"
-      category-name: "WATER AND SANITATION"
-      category-description: null
-    - 
-      code: "14021"
-      name: "Water supply - large systems "
-      description: "Potable water treatment plants; intake works; storage; water supply pumping\n            stations; large scale transmission / conveyance and distribution systems."
-      category: "140"
-      category-name: "WATER AND SANITATION"
-      category-description: null
-    - 
-      code: "14022"
-      name: "Sanitation - large systems"
-      description: "Large scale sewerage including trunk sewers and sewage pumping stations;\n            domestic and industrial waste water treatment plants."
-      category: "140"
-      category-name: "WATER AND SANITATION"
-      category-description: null
-    - 
-      code: "14030"
-      name: "Basic drinking water supply and basic sanitation"
-      description: "Water supply and sanitation through low-cost technologies such as handpumps,\n            spring catchment, gravity-fed systems, rain water collection, storage tanks, small\n            distribution systems; latrines, small-bore sewers, on-site disposal (septic\n            tanks)."
-      category: "140"
-      category-name: "WATER AND SANITATION"
-      category-description: null
-    - 
-      code: "14031"
-      name: "Basic drinking water supply"
-      description: "Rural water supply schemes using handpumps, spring catchments, gravity-fed\n            systems, rainwater collection and fog harvesting, storage tanks, small distribution\n            systems typically with shared connections/points of use. Urban schemes using handpumps\n            and local neighbourhood networks including those with shared connections."
-      category: "140"
-      category-name: "WATER AND SANITATION"
-      category-description: null
-    - 
-      code: "14032"
-      name: "Basic sanitation"
-      description: "Latrines, on-site disposal and alternative sanitation systems, including the\n            promotion of household and community investments in the construction of these\n            facilities. (Use code 12261 for activities promoting improved personal hygiene\n            practices.)"
-      category: "140"
-      category-name: "WATER AND SANITATION"
-      category-description: null
-    - 
-      code: "14040"
-      name: "River development"
-      description: "Integrated river basin projects; river flow control; dams and reservoirs\n            [excluding dams primarily for irrigation (31140) and hydropower (23065) and activities\n            related to river transport (21040)]."
-      category: "140"
-      category-name: "WATER AND SANITATION"
-      category-description: null
-    - 
-      code: "14050"
-      name: "Waste management/disposal"
-      description: "Municipal and industrial solid waste management, including hazardous and toxic\n            waste; collection, disposal and treatment; landfill areas; composting and\n            reuse."
-      category: "140"
-      category-name: "WATER AND SANITATION"
-      category-description: null
-    - 
-      code: "14081"
-      name: "Education and training in water supply and sanitation"
-      description: null
-      category: "140"
-      category-name: "WATER AND SANITATION"
-      category-description: null
-    - 
-      code: "15110"
-      name: "Economic and development policy/planning"
-      description: "Institution-building assistance to strengthen core public sector management\n            systems and capacities. This includes macro-economic and other policy management,\n            co-ordination, planning and reform; human resource management; organisational\n            development; civil service reform; e‑government; development planning, monitoring and\n            evaluation; support to ministries involved in aid co-ordination; other ministries and\n            government departments when sector cannot be specified. (Use specific sector codes for\n            development of systems and capacities in sector ministries.) "
-      category: "151"
-      category-name: "Government and civil society, general"
-      category-description: "N.B. Use code 51010 for general budget support."
-    - 
-      code: "15111"
-      name: "Public finance management"
-      description: "Fiscal policy and planning; support to ministries of finance; strengthening\n            financial and managerial accountability; public expenditure management; improving\n            financial management systems; tax policy and administration; budget drafting;\n            inter-governmental fiscal relations, public audit, public debt. (Use code 33120 for\n            customs.) "
-      category: "151"
-      category-name: "Government and civil society, general"
-      category-description: "N.B. Use code 51010 for general budget support."
-    - 
-      code: "15112"
-      name: "Decentralisation and support to subnational government"
-      description: "Decentralisation processes (including political, administrative and fiscal\n            dimensions); intergovernmental relations and federalism; strengthening departments of\n            regional and local government, regional and local authorities and their national\n            associations. (Use specific sector codes for decentralisation of sector management and\n            services.) "
-      category: "151"
-      category-name: "Government and civil society, general"
-      category-description: "N.B. Use code 51010 for general budget support."
-    - 
-      code: "15113"
-      name: "Anti-corruption organisations and institutions"
-      description: "Specialised organisations, institutions and frameworks for the prevention of\n            and combat against corruption, bribery, money-laundering and other aspects of organised\n            crime, with or without law enforcement powers, e.g. anti-corruption commissions and\n            monitoring bodies, special investigation services, institutions and initiatives of\n            integrity and ethics oversight, specialised NGOs, other civil society and citizens’\n            organisations directly concerned with corruption. "
-      category: "151"
-      category-name: "Government and civil society, general"
-      category-description: "N.B. Use code 51010 for general budget support."
-    - 
-      code: "15120"
-      name: "Public sector financial management"
-      description: "Strengthening financial and managerial accountability; public expenditure\n            management; improving financial management systems; tax assessment procedures; budget\n            drafting; field auditing; measures against waste, fraud and corruption."
-      category: "151"
-      category-name: "Government and civil society, general"
-      category-description: "N.B. Use code 51010 for general budget support."
-    - 
-      code: "15130"
-      name: "Legal and judicial development"
-      description: "Constitutional development, legal drafting; institutional strengthening of\n            legal and judicial systems; legal training and education; legal advice and services;\n            crime prevention."
-      category: "151"
-      category-name: "Government and civil society, general"
-      category-description: "N.B. Use code 51010 for general budget support."
-    - 
-      code: "15140"
-      name: "Government administration"
-      description: "Systems of government including parliament, local government, decentralisation;\n            civil service and civil service reform. Including general services by government (or\n            commissioned by government) not elsewhere specified e.g. police, fire protection;\n            cartography, meteorology, legal metrology, aerial surveys and remote sensing;\n            administrative buildings."
-      category: "151"
-      category-name: "Government and civil society, general"
-      category-description: "N.B. Use code 51010 for general budget support."
-    - 
-      code: "15150"
-      name: "Democratic participation and civil society"
-      description: "Support to the exercise of democracy and diverse forms of participation of\n            citizens beyond elections (15151); direct democracy instruments such as referenda and\n            citizens’ initiatives; support to organisations to represent and advocate for their\n            members, to monitor, engage and hold governments to account, and to help citizens learn\n            to act in the public sphere; curricula and teaching for civic education at various\n            levels. (This purpose code is restricted to activities targeting governance issues. When\n            assistance to civil society is for non-governance purposes use other appropriate purpose\n            codes.)"
-      category: "151"
-      category-name: "Government and civil society, general"
-      category-description: "N.B. Use code 51010 for general budget support."
-    - 
-      code: "15151"
-      name: "Elections"
-      description: "Electoral management bodies and processes, election observation, voters'\n            education. (Use code 15230 when in the context of an international peacekeeping\n            operation.)"
-      category: "151"
-      category-name: "Government and civil society, general"
-      category-description: "N.B. Use code 51010 for general budget support."
-    - 
-      code: "15152"
-      name: "Legislatures and political parties"
-      description: "Assistance to strengthen key functions of legislatures/ parliaments including\n            subnational assemblies and councils (representation; oversight; legislation), such as\n            improving the capacity of legislative bodies, improving legislatures’ committees and\n            administrative procedures,; research and information management systems; providing\n            training programmes for legislators and support personnel. Assistance to political\n            parties and strengthening of party systems."
-      category: "151"
-      category-name: "Government and civil society, general"
-      category-description: "N.B. Use code 51010 for general budget support."
-    - 
-      code: "15153"
-      name: "Media and free flow of information"
-      description: "Activities that support free and uncensored flow of information on public\n            issues; activities that increase the editorial and technical skills and the integrity of\n            the print and broadcast media, e.g. training of journalists. (Use codes 22010-22040 for\n            provision of equipment and capital assistance to media.)"
-      category: "151"
-      category-name: "Government and civil society, general"
-      category-description: "N.B. Use code 51010 for general budget support."
-    - 
-      code: "15160"
-      name: "Human rights"
-      description: "Measures to support specialised official human rights institutions and\n            mechanisms at universal, regional, national and local levels in their statutory roles to\n            promote and protect civil and political, economic, social and cultural rights as defined\n            in international conventions and covenants; translation of international human rights\n            commitments into national legislation; reporting and follow-up; human rights dialogue.\n            Human rights defenders and human rights NGOs; human rights advocacy, activism,\n            mobilisation; awareness raising and public human rights education. Human rights\n            programming targeting specific groups, e.g. children, persons with disabilities,\n            migrants, ethnic, religious, linguistic and sexual minorities, indigenous people and\n            those suffering from caste discrimination, victims of trafficking, victims of torture.\n            (Use code 15230 when in the context of an international peacekeeping operation) "
-      category: "151"
-      category-name: "Government and civil society, general"
-      category-description: "N.B. Use code 51010 for general budget support."
-    - 
-      code: "15170"
-      name: "Women's equality organisations and institutions *"
-      description: "\n            Support for institutions and organisations (governmental and non-governmental)\n            working for gender equality and women's empowerment."
-      category: "151"
-      category-name: "Government and civil society, general"
-      category-description: "N.B. Use code 51010 for general budget support."
-    - 
-      code: "15210"
-      name: "Security system management and reform"
-      description: "Technical co-operation provided to parliament, government ministries, law\n            enforcement agencies and the judiciary to assist review and reform of the security\n            system to improve democratic governance and civilian control; technical co-operation\n            provided to government to improve civilian oversight and democratic control of\n            budgeting, management, accountability and auditing of security expenditure, including\n            military budgets, as part of a public expenditure management programme; assistance to\n            civil society to enhance its competence and capacity to scrutinise the security system\n            so that it is managed in accordance with democratic norms and principles of\n            accountability, transparency and good governance."
-      category: "152"
-      category-name: "Conflict prevention and resolution, peace and security"
-      category-description: "N.B. Further notes on ODA eligibility (and exclusions) of conflict,\n            peace and security related activities are given in paragraphs 41-46 of the DAC\n            Statistical Reporting Directives."
-    - 
-      code: "15220"
-      name: "Civilian peace-building, conflict prevention and resolution"
-      description: "Support for civilian activities related to peace building, conflict prevention\n            and resolution, including capacity building, monitoring, dialogue and information\n            exchange."
-      category: "152"
-      category-name: "Conflict prevention and resolution, peace and security"
-      category-description: "N.B. Further notes on ODA eligibility (and exclusions) of conflict,\n            peace and security related activities are given in paragraphs 41-46 of the DAC\n            Statistical Reporting Directives."
-    - 
-      code: "15230"
-      name: "Post-conflict peace-building (UN)"
-      description: "Participation in the post-conflict peace-building phase of United Nations peace\n            operations (activities such as human rights and elections monitoring, rehabilitation of\n            demobilised soldiers, rehabilitation of basic national infrastructure, monitoring or\n            retraining of civil administrators and police forces, training in customs and border\n            control procedures, advice or training in fiscal or macroeconomic stabilisation policy,\n            repatriation and demobilisation of armed factions, and disposal of their weapons;\n            support for landmine removal). Direct contributions to the UN peacekeeping budget are\n            excluded from bilateral ODA (they are reportable in part as multilateral\n            ODA)."
-      category: "152"
-      category-name: "Conflict prevention and resolution, peace and security"
-      category-description: "N.B. Further notes on ODA eligibility (and exclusions) of conflict,\n            peace and security related activities are given in paragraphs 41-46 of the DAC\n            Statistical Reporting Directives."
-    - 
-      code: "15240"
-      name: "Reintegration and SALW control"
-      description: "Reintegration of demobilised military personnel into the economy; conversion of\n            production facilities from military to civilian outputs; technical co-operation to\n            control, prevent and/or reduce the proliferation of small arms and light weapons (SALW)\n            - see para. 39 of the DAC Statistical Reporting Directives for definition of SALW\n            activities covered. [Other than in connection with UN peace-building (15230) or child\n            soldiers (15261)]."
-      category: "152"
-      category-name: "Conflict prevention and resolution, peace and security"
-      category-description: "N.B. Further notes on ODA eligibility (and exclusions) of conflict,\n            peace and security related activities are given in paragraphs 41-46 of the DAC\n            Statistical Reporting Directives."
-    - 
-      code: "15250"
-      name: "Land mine clearance"
-      description: "Explosive mine removal for developmental purposes [other than in connection\n            with UN peace-building (15230)]."
-      category: "152"
-      category-name: "Conflict prevention and resolution, peace and security"
-      category-description: "N.B. Further notes on ODA eligibility (and exclusions) of conflict,\n            peace and security related activities are given in paragraphs 41-46 of the DAC\n            Statistical Reporting Directives."
-    - 
-      code: "15261"
-      name: "Child soldiers (Prevention and demobilisation)"
-      description: "Technical co-operation provided to government and assistance to civil society\n            organisations to support and apply legislation designed to prevent the recruitment of\n            child soldiers, and to demobilise, disarm, reintegrate, repatriate and resettle (DDR)\n            child soldiers."
-      category: "152"
-      category-name: "Conflict prevention and resolution, peace and security"
-      category-description: "N.B. Further notes on ODA eligibility (and exclusions) of conflict,\n            peace and security related activities are given in paragraphs 41-46 of the DAC\n            Statistical Reporting Directives."
-    - 
-      code: "16010"
-      name: "Social/ welfare services"
-      description: "Social legislation and administration; institution capacity building and\n            advice; social security and other social schemes; special programmes for the elderly,\n            orphans, the disabled, street children; social dimensions of structural adjustment;\n            unspecified social infrastructure and services, including consumer\n            protection."
-      category: "160"
-      category-name: "OTHER SOCIAL INFRASTRUCTURE AND SERVICES"
-      category-description: null
-    - 
-      code: "16020"
-      name: "Employment policy and administrative management"
-      description: "Employment policy and planning; labour law; labour unions; institution capacity\n            building and advice; support programmes for unemployed; employment creation and income\n            generation programmes; occupational safety and health; combating child\n            labour."
-      category: "160"
-      category-name: "OTHER SOCIAL INFRASTRUCTURE AND SERVICES"
-      category-description: null
-    - 
-      code: "16030"
-      name: "Housing policy and administrative management"
-      description: "Housing sector policy, planning and programmes; excluding low-cost housing and\n            slum clearance (16040)."
-      category: "160"
-      category-name: "OTHER SOCIAL INFRASTRUCTURE AND SERVICES"
-      category-description: null
-    - 
-      code: "16040"
-      name: "Low-cost housing"
-      description: "Including slum clearance."
-      category: "160"
-      category-name: "OTHER SOCIAL INFRASTRUCTURE AND SERVICES"
-      category-description: null
-    - 
-      code: "16050"
-      name: "Multisector aid for basic social services"
-      description: "Basic social services are defined to include basic education, basic health,\n            basic nutrition, population/reproductive health and basic drinking water supply and\n            basic sanitation."
-      category: "160"
-      category-name: "OTHER SOCIAL INFRASTRUCTURE AND SERVICES"
-      category-description: null
-    - 
-      code: "16061"
-      name: "Culture and recreation"
-      description: "Including libraries and museums."
-      category: "160"
-      category-name: "OTHER SOCIAL INFRASTRUCTURE AND SERVICES"
-      category-description: null
-    - 
-      code: "16062"
-      name: "Statistical capacity building"
-      description: "Both in national statistical offices and any other government\n            ministries."
-      category: "160"
-      category-name: "OTHER SOCIAL INFRASTRUCTURE AND SERVICES"
-      category-description: null
-    - 
-      code: "16063"
-      name: "Narcotics control"
-      description: "In-country and customs controls including training of the police; educational\n            programmes and awareness campaigns to restrict narcotics traffic and in-country\n            distribution."
-      category: "160"
-      category-name: "OTHER SOCIAL INFRASTRUCTURE AND SERVICES"
-      category-description: null
-    - 
-      code: "16064"
-      name: "Social mitigation of HIV/AIDS"
-      description: "Special programmes to address the consequences of HIV/AIDS, e.g. social, legal\n            and economic assistance to people living with HIV/AIDS including food security and\n            employment; support to vulnerable groups and children orphaned by HIV/AIDS; human rights\n            of HIV/AIDS affected people."
-      category: "160"
-      category-name: "OTHER SOCIAL INFRASTRUCTURE AND SERVICES"
-      category-description: null
-    - 
-      code: "21010"
-      name: "Transport policy and administrative management"
-      description: "Transport sector policy, planning and programmes; aid to transport ministries;\n            institution capacity building and advice; unspecified transport; activities that combine\n            road, rail, water and/or air transport."
-      category: "210"
-      category-name: "TRANSPORT AND STORAGE"
-      category-description: "Note: Manufacturing of transport equipment should be included under\n            code 32172."
-    - 
-      code: "21020"
-      name: "Road transport"
-      description: "Road infrastructure, road vehicles; passenger road transport, motor passenger\n            cars."
-      category: "210"
-      category-name: "TRANSPORT AND STORAGE"
-      category-description: "Note: Manufacturing of transport equipment should be included under\n            code 32172."
-    - 
-      code: "21030"
-      name: "Rail transport"
-      description: "Rail infrastructure, rail equipment, locomotives, other rolling stock;\n            including light rail (tram) and underground systems."
-      category: "210"
-      category-name: "TRANSPORT AND STORAGE"
-      category-description: "Note: Manufacturing of transport equipment should be included under\n            code 32172."
-    - 
-      code: "21040"
-      name: "Water transport"
-      description: "Harbours and docks, harbour guidance systems, ships and boats; river and other\n            inland water transport, inland barges and vessels."
-      category: "210"
-      category-name: "TRANSPORT AND STORAGE"
-      category-description: "Note: Manufacturing of transport equipment should be included under\n            code 32172."
-    - 
-      code: "21050"
-      name: "Air transport"
-      description: "Airports, airport guidance systems, aeroplanes, aeroplane maintenance\n            equipment."
-      category: "210"
-      category-name: "TRANSPORT AND STORAGE"
-      category-description: "Note: Manufacturing of transport equipment should be included under\n            code 32172."
-    - 
-      code: "21061"
-      name: "Storage"
-      description: "Whether or not related to transportation."
-      category: "210"
-      category-name: "TRANSPORT AND STORAGE"
-      category-description: "Note: Manufacturing of transport equipment should be included under\n            code 32172."
-    - 
-      code: "21081"
-      name: "Education and training in transport and storage"
-      description: null
-      category: "210"
-      category-name: "TRANSPORT AND STORAGE"
-      category-description: "Note: Manufacturing of transport equipment should be included under\n            code 32172."
-    - 
-      code: "22010"
-      name: "Communications policy and administrative management"
-      description: "Communications sector policy, planning and programmes; institution capacity\n            building and advice; including postal services development; unspecified communications\n            activities."
-      category: "220"
-      category-name: "COMMUNICATION"
-      category-description: null
-    - 
-      code: "22020"
-      name: "Telecommunications"
-      description: "Telephone networks, telecommunication satellites, earth stations."
-      category: "220"
-      category-name: "COMMUNICATION"
-      category-description: null
-    - 
-      code: "22030"
-      name: "Radio/television/print media"
-      description: "Radio and TV links, equipment; newspapers; printing and\n            publishing."
-      category: "220"
-      category-name: "COMMUNICATION"
-      category-description: null
-    - 
-      code: "22040"
-      name: "Information and communication technology (ICT)"
-      description: "Computer hardware and software; internet access; IT training. When sector\n            cannot be specified."
-      category: "220"
-      category-name: "COMMUNICATION"
-      category-description: null
-    - 
-      code: "23010"
-      name: "Energy policy and administrative management"
-      description: "Energy sector policy, planning and programmes; aid to energy ministries;\n            institution capacity building and advice; unspecified energy activities including energy\n            conservation."
-      category: "230"
-      category-name: "ENERGY GENERATION AND SUPPLY"
-      category-description: "Note: Extraction of raw materials for power generation should be\n            included in the mining sector. Energy manufacturing should be included in the industry\n            sector."
-    - 
-      code: "23020"
-      name: "Power generation/non-renewable sources"
-      description: "Thermal power plants including when heat source cannot be determined; combined\n            gas-coal power plants."
-      category: "230"
-      category-name: "ENERGY GENERATION AND SUPPLY"
-      category-description: "Note: Extraction of raw materials for power generation should be\n            included in the mining sector. Energy manufacturing should be included in the industry\n            sector."
-    - 
-      code: "23030"
-      name: "Power generation/renewable sources"
-      description: "Including policy, planning, development programmes, surveys and incentives.\n            Fuelwood/ charcoal production should be included under forestry (31261)."
-      category: "230"
-      category-name: "ENERGY GENERATION AND SUPPLY"
-      category-description: "Note: Extraction of raw materials for power generation should be\n            included in the mining sector. Energy manufacturing should be included in the industry\n            sector."
-    - 
-      code: "23040"
-      name: "Electrical transmission/ distribution"
-      description: "Distribution from power source to end user; transmission lines."
-      category: "230"
-      category-name: "ENERGY GENERATION AND SUPPLY"
-      category-description: "Note: Extraction of raw materials for power generation should be\n            included in the mining sector. Energy manufacturing should be included in the industry\n            sector."
-    - 
-      code: "23050"
-      name: "Gas distribution"
-      description: "Delivery for use by ultimate consumer."
-      category: "230"
-      category-name: "ENERGY GENERATION AND SUPPLY"
-      category-description: "Note: Extraction of raw materials for power generation should be\n            included in the mining sector. Energy manufacturing should be included in the industry\n            sector."
-    - 
-      code: "23061"
-      name: "Oil-fired power plants"
-      description: "Including diesel power plants."
-      category: "230"
-      category-name: "ENERGY GENERATION AND SUPPLY"
-      category-description: "Note: Extraction of raw materials for power generation should be\n            included in the mining sector. Energy manufacturing should be included in the industry\n            sector."
-    - 
-      code: "23062"
-      name: "Gas-fired power plants"
-      description: null
-      category: "230"
-      category-name: "ENERGY GENERATION AND SUPPLY"
-      category-description: "Note: Extraction of raw materials for power generation should be\n            included in the mining sector. Energy manufacturing should be included in the industry\n            sector."
-    - 
-      code: "23063"
-      name: "Coal-fired power plants"
-      description: null
-      category: "230"
-      category-name: "ENERGY GENERATION AND SUPPLY"
-      category-description: "Note: Extraction of raw materials for power generation should be\n            included in the mining sector. Energy manufacturing should be included in the industry\n            sector."
-    - 
-      code: "23064"
-      name: "Nuclear power plants"
-      description: "Including nuclear safety."
-      category: "230"
-      category-name: "ENERGY GENERATION AND SUPPLY"
-      category-description: "Note: Extraction of raw materials for power generation should be\n            included in the mining sector. Energy manufacturing should be included in the industry\n            sector."
-    - 
-      code: "23065"
-      name: "Hydro-electric power plants"
-      description: "Including power-generating river barges."
-      category: "230"
-      category-name: "ENERGY GENERATION AND SUPPLY"
-      category-description: "Note: Extraction of raw materials for power generation should be\n            included in the mining sector. Energy manufacturing should be included in the industry\n            sector."
-    - 
-      code: "23066"
-      name: "Geothermal energy"
-      description: null
-      category: "230"
-      category-name: "ENERGY GENERATION AND SUPPLY"
-      category-description: "Note: Extraction of raw materials for power generation should be\n            included in the mining sector. Energy manufacturing should be included in the industry\n            sector."
-    - 
-      code: "23067"
-      name: "Solar energy"
-      description: "Including photo-voltaic cells, solar thermal applications and solar\n            heating."
-      category: "230"
-      category-name: "ENERGY GENERATION AND SUPPLY"
-      category-description: "Note: Extraction of raw materials for power generation should be\n            included in the mining sector. Energy manufacturing should be included in the industry\n            sector."
-    - 
-      code: "23068"
-      name: "Wind power"
-      description: "Wind energy for water lifting and electric power generation."
-      category: "230"
-      category-name: "ENERGY GENERATION AND SUPPLY"
-      category-description: "Note: Extraction of raw materials for power generation should be\n            included in the mining sector. Energy manufacturing should be included in the industry\n            sector."
-    - 
-      code: "23069"
-      name: "Ocean power"
-      description: "Including ocean thermal energy conversion, tidal and wave power."
-      category: "230"
-      category-name: "ENERGY GENERATION AND SUPPLY"
-      category-description: "Note: Extraction of raw materials for power generation should be\n            included in the mining sector. Energy manufacturing should be included in the industry\n            sector."
-    - 
-      code: "23070"
-      name: "Biomass"
-      description: "Densification technologies and use of biomass for direct power generation\n            including biogas, gas obtained from sugar cane and other plant residues, anaerobic\n            digesters."
-      category: "230"
-      category-name: "ENERGY GENERATION AND SUPPLY"
-      category-description: "Note: Extraction of raw materials for power generation should be\n            included in the mining sector. Energy manufacturing should be included in the industry\n            sector."
-    - 
-      code: "23081"
-      name: "Energy education/training"
-      description: "Applies to all energy sub-sectors; all levels of training."
-      category: "230"
-      category-name: "ENERGY GENERATION AND SUPPLY"
-      category-description: "Note: Extraction of raw materials for power generation should be\n            included in the mining sector. Energy manufacturing should be included in the industry\n            sector."
-    - 
-      code: "23082"
-      name: "Energy research"
-      description: "Including general inventories, surveys."
-      category: "230"
-      category-name: "ENERGY GENERATION AND SUPPLY"
-      category-description: "Note: Extraction of raw materials for power generation should be\n            included in the mining sector. Energy manufacturing should be included in the industry\n            sector."
-    - 
-      code: "24010"
-      name: "Financial policy and administrative management"
-      description: "Finance sector policy, planning and programmes; institution capacity building\n            and advice; financial markets and systems."
-      category: "240"
-      category-name: "BANKING AND FINANCIAL SERVICES"
-      category-description: null
-    - 
-      code: "24020"
-      name: "Monetary institutions"
-      description: "Central banks."
-      category: "240"
-      category-name: "BANKING AND FINANCIAL SERVICES"
-      category-description: null
-    - 
-      code: "24030"
-      name: "Formal sector financial intermediaries"
-      description: "All formal sector financial intermediaries; credit lines; insurance, leasing,\n            venture capital, etc. (except when focused on only one sector)."
-      category: "240"
-      category-name: "BANKING AND FINANCIAL SERVICES"
-      category-description: null
-    - 
-      code: "24040"
-      name: "Informal/semi-formal financial intermediaries"
-      description: "Micro credit, savings and credit co-operatives etc."
-      category: "240"
-      category-name: "BANKING AND FINANCIAL SERVICES"
-      category-description: null
-    - 
-      code: "24081"
-      name: "Education/training in banking and financial services"
-      description: null
-      category: "240"
-      category-name: "BANKING AND FINANCIAL SERVICES"
-      category-description: null
-    - 
-      code: "25010"
-      name: "Business support services and institutions"
-      description: "Support to trade and business associations, chambers of commerce; legal and\n            regulatory reform aimed at improving business and investment climate; private sector\n            institution capacity building and advice; trade information; public-private sector\n            networking including trade fairs; e?commerce. Where sector cannot be specified: general\n            support to private sector enterprises (in particular, use code 32130 for enterprises in\n            the industrial sector)."
-      category: "250"
-      category-name: "BUSINESS AND OTHER SERVICES"
-      category-description: null
-    - 
-      code: "25020"
-      name: "Privatisation"
-      description: "When sector cannot be specified. Including general state enterprise\n            restructuring or demonopolisation programmes; planning, programming,\n            advice."
-      category: "250"
-      category-name: "BUSINESS AND OTHER SERVICES"
-      category-description: null
-    - 
-      code: "31110"
-      name: "Agricultural policy and administrative management"
-      description: "Agricultural sector policy, planning and programmes; aid to agricultural\n            ministries; institution capacity building and advice; unspecified\n            agriculture."
-      category: "311"
-      category-name: "AGRICULTURE"
-      category-description: null
-    - 
-      code: "31120"
-      name: "Agricultural development"
-      description: "Integrated projects; farm development."
-      category: "311"
-      category-name: "AGRICULTURE"
-      category-description: null
-    - 
-      code: "31130"
-      name: "Agricultural land resources"
-      description: "Including soil degradation control; soil improvement; drainage of water logged\n            areas; soil desalination; agricultural land surveys; land reclamation; erosion control,\n            desertification control."
-      category: "311"
-      category-name: "AGRICULTURE"
-      category-description: null
-    - 
-      code: "31140"
-      name: "Agricultural water resources"
-      description: "Irrigation, reservoirs, hydraulic structures, ground water exploitation for\n            agricultural use."
-      category: "311"
-      category-name: "AGRICULTURE"
-      category-description: null
-    - 
-      code: "31150"
-      name: "Agricultural inputs"
-      description: "Supply of seeds, fertilizers, agricultural machinery/equipment."
-      category: "311"
-      category-name: "AGRICULTURE"
-      category-description: null
-    - 
-      code: "31161"
-      name: "Food crop production"
-      description: "Including grains (wheat, rice, barley, maize, rye, oats, millet, sorghum);\n            horticulture; vegetables; fruit and berries; other annual and perennial crops. [Use code\n            32161 for agro-industries.]"
-      category: "311"
-      category-name: "AGRICULTURE"
-      category-description: null
-    - 
-      code: "31162"
-      name: "Industrial crops/export crops"
-      description: "Including sugar; coffee, cocoa, tea; oil seeds, nuts, kernels; fibre crops;\n            tobacco; rubber. [Use code 32161 for agro-industries.]"
-      category: "311"
-      category-name: "AGRICULTURE"
-      category-description: null
-    - 
-      code: "31163"
-      name: "Livestock"
-      description: "Animal husbandry; animal feed aid."
-      category: "311"
-      category-name: "AGRICULTURE"
-      category-description: null
-    - 
-      code: "31164"
-      name: "Agrarian reform"
-      description: "Including agricultural sector adjustment."
-      category: "311"
-      category-name: "AGRICULTURE"
-      category-description: null
-    - 
-      code: "31165"
-      name: "Agricultural alternative development"
-      description: "Projects to reduce illicit drug cultivation through other agricultural\n            marketing and production opportunities (see code 43050 for non-agricultural alternative\n            development)."
-      category: "311"
-      category-name: "AGRICULTURE"
-      category-description: null
-    - 
-      code: "31166"
-      name: "Agricultural extension"
-      description: "Non-formal training in agriculture."
-      category: "311"
-      category-name: "AGRICULTURE"
-      category-description: null
-    - 
-      code: "31181"
-      name: "Agricultural education/training"
-      description: null
-      category: "311"
-      category-name: "AGRICULTURE"
-      category-description: null
-    - 
-      code: "31182"
-      name: "Agricultural research"
-      description: "Plant breeding, physiology, genetic resources, ecology, taxonomy, disease\n            control, agricultural bio-technology; including livestock research (animal health,\n            breeding and genetics, nutrition, physiology)."
-      category: "311"
-      category-name: "AGRICULTURE"
-      category-description: null
-    - 
-      code: "31191"
-      name: "Agricultural services"
-      description: "Marketing policies and organisation; storage and transportation, creation of\n            strategic reserves."
-      category: "311"
-      category-name: "AGRICULTURE"
-      category-description: null
-    - 
-      code: "31192"
-      name: "Plant and post-harvest protection and pest control"
-      description: "Including integrated plant protection, biological plant protection activities,\n            supply and management of agrochemicals, supply of pesticides, plant protection policy\n            and legislation."
-      category: "311"
-      category-name: "AGRICULTURE"
-      category-description: null
-    - 
-      code: "31193"
-      name: "Agricultural financial services"
-      description: "Financial intermediaries for the agricultural sector including credit schemes;\n            crop insurance."
-      category: "311"
-      category-name: "AGRICULTURE"
-      category-description: null
-    - 
-      code: "31194"
-      name: "Agricultural co-operatives"
-      description: "Including farmersÂ’ organisations."
-      category: "311"
-      category-name: "AGRICULTURE"
-      category-description: null
-    - 
-      code: "31195"
-      name: "Livestock/veterinary services"
-      description: "Animal health and management, genetic resources, feed resources."
-      category: "311"
-      category-name: "AGRICULTURE"
-      category-description: null
-    - 
-      code: "31210"
-      name: "Forestry policy and administrative management"
-      description: "Forestry sector policy, planning and programmes; institution capacity building\n            and advice; forest surveys; unspecified forestry and agro-forestry\n            activities."
-      category: "312"
-      category-name: "FORESTRY"
-      category-description: null
-    - 
-      code: "31220"
-      name: "Forestry development"
-      description: "Afforestation for industrial and rural consumption; exploitation and\n            utilisation; erosion control, desertification control; integrated forestry\n            projects."
-      category: "312"
-      category-name: "FORESTRY"
-      category-description: null
-    - 
-      code: "31261"
-      name: "Fuelwood/charcoal"
-      description: "Forestry development whose primary purpose is production of fuelwood and\n            charcoal."
-      category: "312"
-      category-name: "FORESTRY"
-      category-description: null
-    - 
-      code: "31281"
-      name: "Forestry education/training"
-      description: null
-      category: "312"
-      category-name: "FORESTRY"
-      category-description: null
-    - 
-      code: "31282"
-      name: "Forestry research"
-      description: "Including artificial regeneration, genetic improvement, production methods,\n            fertilizer, harvesting."
-      category: "312"
-      category-name: "FORESTRY"
-      category-description: null
-    - 
-      code: "31291"
-      name: "Forestry services"
-      description: null
-      category: "312"
-      category-name: "FORESTRY"
-      category-description: null
-    - 
-      code: "31310"
-      name: "Fishing policy and administrative management"
-      description: "Fishing sector policy, planning and programmes; institution capacity building\n            and advice; ocean and coastal fishing; marine and freshwater fish surveys and\n            prospecting; fishing boats/equipment; unspecified fishing activities."
-      category: "313"
-      category-name: "FISHING"
-      category-description: null
-    - 
-      code: "31320"
-      name: "Fishery development"
-      description: "Exploitation and utilisation of fisheries; fish stock protection; aquaculture;\n            integrated fishery projects."
-      category: "313"
-      category-name: "FISHING"
-      category-description: null
-    - 
-      code: "31381"
-      name: "Fishery education/training"
-      description: null
-      category: "313"
-      category-name: "FISHING"
-      category-description: null
-    - 
-      code: "31382"
-      name: "Fishery research"
-      description: "Pilot fish culture; marine/freshwater biological research."
-      category: "313"
-      category-name: "FISHING"
-      category-description: null
-    - 
-      code: "31391"
-      name: "Fishery services"
-      description: "Fishing harbours; fish markets; fishery transport and cold\n            storage."
-      category: "313"
-      category-name: "FISHING"
-      category-description: null
-    - 
-      code: "32110"
-      name: "Industrial policy and administrative management"
-      description: "Industrial sector policy, planning and programmes; institution capacity\n            building and advice; unspecified industrial activities; manufacturing of goods not\n            specified below."
-      category: "321"
-      category-name: "INDUSTRY"
-      category-description: "Only includes aid to production or manufacturing. Provision of\n            finished products should be included under relevant sector."
-    - 
-      code: "32120"
-      name: "Industrial development"
-      description: null
-      category: "321"
-      category-name: "INDUSTRY"
-      category-description: "Only includes aid to production or manufacturing. Provision of\n            finished products should be included under relevant sector."
-    - 
-      code: "32130"
-      name: "Small and medium-sized enterprises (SME) development"
-      description: "Direct support to the development of small and medium-sized enterprises in the\n            industrial sector, including accounting, auditing and advisory services."
-      category: "321"
-      category-name: "INDUSTRY"
-      category-description: "Only includes aid to production or manufacturing. Provision of\n            finished products should be included under relevant sector."
-    - 
-      code: "32140"
-      name: "Cottage industries and handicraft"
-      description: null
-      category: "321"
-      category-name: "INDUSTRY"
-      category-description: "Only includes aid to production or manufacturing. Provision of\n            finished products should be included under relevant sector."
-    - 
-      code: "32161"
-      name: "Agro-industries"
-      description: "Staple food processing, dairy products, slaughter houses and equipment, meat\n            and fish processing and preserving, oils/fats, sugar refineries, beverages/tobacco,\n            animal feeds production."
-      category: "321"
-      category-name: "INDUSTRY"
-      category-description: "Only includes aid to production or manufacturing. Provision of\n            finished products should be included under relevant sector."
-    - 
-      code: "32162"
-      name: "Forest industries"
-      description: "Wood production, pulp/paper production."
-      category: "321"
-      category-name: "INDUSTRY"
-      category-description: "Only includes aid to production or manufacturing. Provision of\n            finished products should be included under relevant sector."
-    - 
-      code: "32163"
-      name: "Textiles, leather and substitutes"
-      description: "Including knitting factories."
-      category: "321"
-      category-name: "INDUSTRY"
-      category-description: "Only includes aid to production or manufacturing. Provision of\n            finished products should be included under relevant sector."
-    - 
-      code: "32164"
-      name: "Chemicals"
-      description: "Industrial and non-industrial production facilities; includes pesticides\n            production."
-      category: "321"
-      category-name: "INDUSTRY"
-      category-description: "Only includes aid to production or manufacturing. Provision of\n            finished products should be included under relevant sector."
-    - 
-      code: "32165"
-      name: "Fertilizer plants"
-      description: null
-      category: "321"
-      category-name: "INDUSTRY"
-      category-description: "Only includes aid to production or manufacturing. Provision of\n            finished products should be included under relevant sector."
-    - 
-      code: "32166"
-      name: "Cement/lime/plaster"
-      description: null
-      category: "321"
-      category-name: "INDUSTRY"
-      category-description: "Only includes aid to production or manufacturing. Provision of\n            finished products should be included under relevant sector."
-    - 
-      code: "32167"
-      name: "Energy manufacturing"
-      description: "Including gas liquefaction; petroleum refineries."
-      category: "321"
-      category-name: "INDUSTRY"
-      category-description: "Only includes aid to production or manufacturing. Provision of\n            finished products should be included under relevant sector."
-    - 
-      code: "32168"
-      name: "Pharmaceutical production"
-      description: "Medical equipment/supplies; drugs, medicines, vaccines; hygienic\n            products."
-      category: "321"
-      category-name: "INDUSTRY"
-      category-description: "Only includes aid to production or manufacturing. Provision of\n            finished products should be included under relevant sector."
-    - 
-      code: "32169"
-      name: "Basic metal industries"
-      description: "Iron and steel, structural metal production."
-      category: "321"
-      category-name: "INDUSTRY"
-      category-description: "Only includes aid to production or manufacturing. Provision of\n            finished products should be included under relevant sector."
-    - 
-      code: "32170"
-      name: "Non-ferrous metal industries"
-      description: null
-      category: "321"
-      category-name: "INDUSTRY"
-      category-description: "Only includes aid to production or manufacturing. Provision of\n            finished products should be included under relevant sector."
-    - 
-      code: "32171"
-      name: "Engineering"
-      description: "Manufacturing of electrical and non-electrical machinery,\n            engines/turbines."
-      category: "321"
-      category-name: "INDUSTRY"
-      category-description: "Only includes aid to production or manufacturing. Provision of\n            finished products should be included under relevant sector."
-    - 
-      code: "32172"
-      name: "Transport equipment industry"
-      description: "Shipbuilding, fishing boats building; railroad equipment; motor vehicles and\n            motor passenger cars; aircraft; navigation/guidance systems."
-      category: "321"
-      category-name: "INDUSTRY"
-      category-description: "Only includes aid to production or manufacturing. Provision of\n            finished products should be included under relevant sector."
-    - 
-      code: "32182"
-      name: "Technological research and development"
-      description: "Including industrial standards; quality management; metrology; testing;\n            accreditation; certification."
-      category: "321"
-      category-name: "INDUSTRY"
-      category-description: "Only includes aid to production or manufacturing. Provision of\n            finished products should be included under relevant sector."
-    - 
-      code: "32210"
-      name: "Mineral/mining policy and administrative management"
-      description: "Mineral and mining sector policy, planning and programmes; mining legislation,\n            mining cadastre, mineral resources inventory, information systems, institution capacity\n            building and advice; unspecified mineral resources exploitation."
-      category: "322"
-      category-name: "MINERAL RESOURCES AND MINING"
-      category-description: null
-    - 
-      code: "32220"
-      name: "Mineral prospection and exploration"
-      description: "Geology, geophysics, geochemistry; excluding hydrogeology (14010) and\n            environmental geology (41010), mineral extraction and processing, infrastructure,\n            technology, economics, safety and environment management."
-      category: "322"
-      category-name: "MINERAL RESOURCES AND MINING"
-      category-description: null
-    - 
-      code: "32261"
-      name: "Coal"
-      description: "Including lignite and peat."
-      category: "322"
-      category-name: "MINERAL RESOURCES AND MINING"
-      category-description: null
-    - 
-      code: "32262"
-      name: "Oil and gas"
-      description: "Petroleum, natural gas, condensates, liquefied petroleum gas (LPG), liquefied\n            natural gas (LNG); including drilling and production."
-      category: "322"
-      category-name: "MINERAL RESOURCES AND MINING"
-      category-description: null
-    - 
-      code: "32263"
-      name: "Ferrous metals"
-      description: "Iron and ferro-alloy metals."
-      category: "322"
-      category-name: "MINERAL RESOURCES AND MINING"
-      category-description: null
-    - 
-      code: "32264"
-      name: "Nonferrous metals"
-      description: "Aluminium, copper, lead, nickel, tin, zinc."
-      category: "322"
-      category-name: "MINERAL RESOURCES AND MINING"
-      category-description: null
-    - 
-      code: "32265"
-      name: "Precious metals/materials"
-      description: "Gold, silver, platinum, diamonds, gemstones."
-      category: "322"
-      category-name: "MINERAL RESOURCES AND MINING"
-      category-description: null
-    - 
-      code: "32266"
-      name: "Industrial minerals"
-      description: "Baryte, limestone, feldspar, kaolin, sand, gypsym, gravel, ornamental\n            stones."
-      category: "322"
-      category-name: "MINERAL RESOURCES AND MINING"
-      category-description: null
-    - 
-      code: "32267"
-      name: "Fertilizer minerals"
-      description: "Phosphates, potash."
-      category: "322"
-      category-name: "MINERAL RESOURCES AND MINING"
-      category-description: null
-    - 
-      code: "32268"
-      name: "Offshore minerals"
-      description: "Polymetallic nodules, phosphorites, marine placer deposits."
-      category: "322"
-      category-name: "MINERAL RESOURCES AND MINING"
-      category-description: null
-    - 
-      code: "32310"
-      name: "Construction policy and administrative management"
-      description: "Construction sector policy and planning; excluding construction activities\n            within specific sectors (e.g., hospital or school construction)."
-      category: "323"
-      category-name: "CONSTRUCTION"
-      category-description: null
-    - 
-      code: "33110"
-      name: "Trade policy and administrative management"
-      description: "Trade policy and planning; support to ministries and departments responsible\n            for trade policy; trade-related legislation and regulatory reforms; policy analysis and\n            implementation of multilateral trade agreements e.g. technical barriers to trade and\n            sanitary and phytosanitary measures (TBT/SPS) except at regional level (see 33130);\n            mainstreaming trade in national development strategies (e.g. poverty reduction strategy\n            papers); wholesale/retail trade; unspecified trade and trade promotion\n            activities."
-      category: "331"
-      category-name: "TRADE POLICY AND REGULATIONS AND TRADE-RELATED ADJUSTMENT"
-      category-description: null
-    - 
-      code: "33120"
-      name: "Trade facilitation"
-      description: "Simplification and harmonisation of international import and export procedures\n            (e.g. customs valuation, licensing procedures, transport formalities, payments,\n            insurance); support to customs departments; tariff reforms."
-      category: "331"
-      category-name: "TRADE POLICY AND REGULATIONS AND TRADE-RELATED ADJUSTMENT"
-      category-description: null
-    - 
-      code: "33130"
-      name: "Regional trade agreements (RTAs)"
-      description: "Support to regional trade arrangements [e.g. Southern African Development\n            Community (SADC), Association of Southeast Asian Nations (ASEAN), Free Trade Area of the\n            Americas (FTAA), African Caribbean Pacific/European Union (ACP/EU)], including work on\n            technical barriers to trade and sanitary and phytosanitary measures (TBT/SPS) at\n            regional level; elaboration of rules of origin and introduction of special and\n            differential treatment in RTAs."
-      category: "331"
-      category-name: "TRADE POLICY AND REGULATIONS AND TRADE-RELATED ADJUSTMENT"
-      category-description: null
-    - 
-      code: "33140"
-      name: "Multilateral trade negotiations"
-      description: "Support developing countries' effective participation in multilateral trade\n            negotiations, including training of negotiators, assessing impacts of negotiations;\n            accession to the World Trade Organisation (WTO) and other multilateral trade-related\n            organisations."
-      category: "331"
-      category-name: "TRADE POLICY AND REGULATIONS AND TRADE-RELATED ADJUSTMENT"
-      category-description: null
-    - 
-      code: "33150"
-      name: "Trade-related adjustment"
-      description: "Contributions to the government budget to assist the implementation of\n            recipients' own trade reforms and adjustments to trade policy measures by other\n            countries; assistance to manage shortfalls in the balance of payments due to changes in\n            the world trading environment."
-      category: "331"
-      category-name: "TRADE POLICY AND REGULATIONS AND TRADE-RELATED ADJUSTMENT"
-      category-description: null
-    - 
-      code: "33181"
-      name: "Trade education/training"
-      description: "Human resources development in trade not included under any of the above codes.\n            Includes university programmes in trade."
-      category: "331"
-      category-name: "TRADE POLICY AND REGULATIONS AND TRADE-RELATED ADJUSTMENT"
-      category-description: null
-    - 
-      code: "33210"
-      name: "Tourism policy and administrative management"
-      description: null
-      category: "332"
-      category-name: "TOURISM"
-      category-description: null
-    - 
-      code: "41010"
-      name: "Environmental policy and administrative management"
-      description: "Environmental policy, laws, regulations and economic instruments;\n            administrational institutions and practices; environmental and land use planning and\n            decision-making procedures; seminars, meetings; miscellaneous conservation and\n            protection measures not specified below."
-      category: "410"
-      category-name: "General environmental protection"
-      category-description: "Non-sector specific."
-    - 
-      code: "41020"
-      name: "Biosphere protection"
-      description: "Air pollution control, ozone layer preservation; marine pollution\n            control."
-      category: "410"
-      category-name: "General environmental protection"
-      category-description: "Non-sector specific."
-    - 
-      code: "41030"
-      name: "Bio-diversity"
-      description: "Including natural reserves and actions in the surrounding areas; other measures\n            to protect endangered or vulnerable species and their habitats (e.g. wetlands\n            preservation)."
-      category: "410"
-      category-name: "General environmental protection"
-      category-description: "Non-sector specific."
-    - 
-      code: "41040"
-      name: "Site preservation"
-      description: "Applies to unique cultural landscape; including sites/objects of historical,\n            archeological, aesthetic, scientific or educational value."
-      category: "410"
-      category-name: "General environmental protection"
-      category-description: "Non-sector specific."
-    - 
-      code: "41050"
-      name: "Flood prevention/control"
-      description: "Floods from rivers or the sea; including sea water intrusion control and sea\n            level rise related activities."
-      category: "410"
-      category-name: "General environmental protection"
-      category-description: "Non-sector specific."
-    - 
-      code: "41081"
-      name: "Environmental education/ training"
-      description: null
-      category: "410"
-      category-name: "General environmental protection"
-      category-description: "Non-sector specific."
-    - 
-      code: "41082"
-      name: "Environmental research"
-      description: "Including establishment of databases, inventories/accounts of physical and\n            natural resources; environmental profiles and impact studies if not sector\n            specific."
-      category: "410"
-      category-name: "General environmental protection"
-      category-description: "Non-sector specific."
-    - 
-      code: "43010"
-      name: "Multisector aid"
-      description: null
-      category: "430"
-      category-name: "Other multisector"
-      category-description: null
-    - 
-      code: "43030"
-      name: "Urban development and management"
-      description: "Integrated urban development projects; local development and urban management;\n            urban infrastructure and services; municipal finances; urban environmental management;\n            urban development and planning; urban renewal and urban housing; land information\n            systems."
-      category: "430"
-      category-name: "Other multisector"
-      category-description: null
-    - 
-      code: "43040"
-      name: "Rural development"
-      description: "Integrated rural development projects; e.g. regional development planning;\n            promotion of decentralised and multi-sectoral competence for planning, co-ordination and\n            management; implementation of regional development and measures (including natural\n            reserve management); land management; land use planning; land settlement and\n            resettlement activities [excluding resettlement of refugees and internally displaced\n            persons (72010)]; functional integration of rural and urban areas; geographical\n            information systems."
-      category: "430"
-      category-name: "Other multisector"
-      category-description: null
-    - 
-      code: "43050"
-      name: "Non-agricultural alternative development"
-      description: "Projects to reduce illicit drug cultivation through, for example,\n            non-agricultural income opportunities, social and physical infrastructure (see code\n            31165 for agricultural alternative development)."
-      category: "430"
-      category-name: "Other multisector"
-      category-description: null
-    - 
-      code: "43081"
-      name: "Multisector education/training"
-      description: "Including scholarships."
-      category: "430"
-      category-name: "Other multisector"
-      category-description: null
-    - 
-      code: "43082"
-      name: "Research/scientific institutions"
-      description: "When sector cannot be identified."
-      category: "430"
-      category-name: "Other multisector"
-      category-description: null
-    - 
-      code: "51010"
-      name: "General budget support"
-      description: "Unearmarked contributions to the government budget; support for the\n            implementation of macroeconomic reforms (structural adjustment programmes, poverty\n            reduction strategies); general programme assistance (when not allocable by\n            sector)."
-      category: "510"
-      category-name: "General budget support"
-      category-description: "Budget support in the form of sector-wide approaches (SWAps) should be\n            included in the respective sectors."
-    - 
-      code: "52010"
-      name: "Food aid/Food security programmes"
-      description: "Supply of edible human food under national or international programmes\n            including transport costs; cash payments made for food supplies; project food aid and\n            food aid for market sales when benefiting sector not specified; excluding emergency food\n            aid."
-      category: "520"
-      category-name: "Developmental food aid/Food security assistance"
-      category-description: null
-    - 
-      code: "53030"
-      name: "Import support (capital goods)"
-      description: "Capital goods and services; lines of credit."
-      category: "530"
-      category-name: "Other commodity assistance"
-      category-description: "Non-food commodity assistance (when benefiting sector not\n            specified)."
-    - 
-      code: "53040"
-      name: "Import support (commodities)"
-      description: "Commodities, general goods and services, oil imports."
-      category: "530"
-      category-name: "Other commodity assistance"
-      category-description: "Non-food commodity assistance (when benefiting sector not\n            specified)."
-    - 
-      code: "60010"
-      name: "Action relating to debt"
-      description: "Actions falling outside the code headings below; training in debt\n            management."
-      category: "600"
-      category-name: "ACTION RELATING TO DEBT"
-      category-description: null
-    - 
-      code: "60020"
-      name: "Debt forgiveness"
-      description: null
-      category: "600"
-      category-name: "ACTION RELATING TO DEBT"
-      category-description: null
-    - 
-      code: "60030"
-      name: "Relief of multilateral debt"
-      description: "Grants or credits to cover debt owed to multilateral financial institutions;\n            including contributions to Heavily Indebted Poor Countries (HIPC) Trust\n            Fund."
-      category: "600"
-      category-name: "ACTION RELATING TO DEBT"
-      category-description: null
-    - 
-      code: "60040"
-      name: "Rescheduling and refinancing"
-      description: null
-      category: "600"
-      category-name: "ACTION RELATING TO DEBT"
-      category-description: null
-    - 
-      code: "60061"
-      name: "Debt for development swap"
-      description: "Allocation of debt claims to use for development (e.g., debt for education,\n            debt for environment)."
-      category: "600"
-      category-name: "ACTION RELATING TO DEBT"
-      category-description: null
-    - 
-      code: "60062"
-      name: "Other debt swap"
-      description: "Where the debt swap benefits an external agent i.e. is not specifically for\n            development purposes."
-      category: "600"
-      category-name: "ACTION RELATING TO DEBT"
-      category-description: null
-    - 
-      code: "60063"
-      name: "Debt buy-back"
-      description: "Purchase of debt for the purpose of cancellation."
-      category: "600"
-      category-name: "ACTION RELATING TO DEBT"
-      category-description: null
-    - 
-      code: "72010"
-      name: "Material relief assistance and services"
-      description: "Shelter, water, sanitation and health services, supply of medicines and other\n            non-food relief items; assistance to refugees and internally displaced people in\n            developing countries other than for food (72040) or protection (72050)."
-      category: "720"
-      category-name: "Emergency Response"
-      category-description: "An emergency is a situation which results from man made crises and/or\n            natural disasters."
-    - 
-      code: "72040"
-      name: "Emergency food aid"
-      description: "Food aid normally for general free distribution or special supplementary\n            feeding programmes; short-term relief to targeted population groups affected by\n            emergency situations. Excludes non-emergency food security assistance programmes/food\n            aid (52010)."
-      category: "720"
-      category-name: "Emergency Response"
-      category-description: "An emergency is a situation which results from man made crises and/or\n            natural disasters."
-    - 
-      code: "72050"
-      name: "Relief co-ordination; protection and support services"
-      description: "Measures to co-ordinate delivery of humanitarian aid, including logistics and\n            communications systems; measures to promote and protect the safety, well-being, dignity\n            and integrity of civilians and those no longer taking part in hostilities. (Activities\n            designed to protect the security of persons or property through the use or display of\n            force are not reportable as ODA.)"
-      category: "720"
-      category-name: "Emergency Response"
-      category-description: "An emergency is a situation which results from man made crises and/or\n            natural disasters."
-    - 
-      code: "73010"
-      name: "Reconstruction relief and rehabilitation"
-      description: "Short-term reconstruction work after emergency or conflict limited to restoring\n            pre-existing infrastructure (e.g. repair or construction of roads, bridges and ports,\n            restoration of essential facilities, such as water and sanitation, shelter, health care\n            services); social and economic rehabilitation in the aftermath of emergencies to\n            facilitate transition and enable populations to return to their previous livelihood or\n            develop a new livelihood in the wake of an emergency situation (e.g. trauma counselling\n            and treatment, employment programmes)."
-      category: "730"
-      category-name: "Reconstruction relief and rehabilitation"
-      category-description: "This relates to activities during and in the aftermath of an emergency\n            situation. Longer-term activities to improve the level of infrastructure or social\n            services should be reported under the relevant economic and social sector codes. See\n            also guideline on distinguishing humanitarian from sector-allocable\n            aid."
-    - 
-      code: "74010"
-      name: "Disaster prevention and preparedness"
-      description: "Disaster risk reduction activities (e.g. developing knowledge, natural risks\n            cartography, legal norms for construction); early warning systems; emergency contingency\n            stocks and contingency planning including preparations for forced\n            displacement."
-      category: "740"
-      category-name: "Disaster prevention and preparedness"
-      category-description: "See codes 41050 and 15220 for prevention of floods and\n            conflicts."
-    - 
-      code: "91010"
-      name: "Administrative costs"
-      description: null
-      category: "910"
-      category-name: "ADMINISTRATIVE COSTS OF DONORS"
-      category-description: null
-    - 
-      code: "92010"
-      name: "Support to national NGOs"
-      description: "In the donor country."
-      category: "920"
-      category-name: "SUPPORT TO NON- GOVERNMENTAL ORGANISATIONS (NGOs)"
-      category-description: null
-    - 
-      code: "92020"
-      name: "Support to international NGOs"
-      description: null
-      category: "920"
-      category-name: "SUPPORT TO NON- GOVERNMENTAL ORGANISATIONS (NGOs)"
-      category-description: null
-    - 
-      code: "92030"
-      name: "Support to local and regional NGOs"
-      description: "In the recipient country or region."
-      category: "920"
-      category-name: "SUPPORT TO NON- GOVERNMENTAL ORGANISATIONS (NGOs)"
-      category-description: null
-    - 
-      code: "93010"
-      name: "Refugees in donor countries"
-      description: null
-      category: "930"
-      category-name: "REFUGEES IN DONOR COUNTRIES"
-      category-description: null
-    - 
-      code: "99810"
-      name: "Sectors not specified"
-      description: "Contributions to general development of the recipient should be included under\n            programme assistance (51010)."
-      category: "998"
-      category-name: "UNALLOCATED/ UNSPECIFIED"
-      category-description: null
-    - 
-      code: "99820"
-      name: "Promotion of development awareness"
-      description: "Spending in donor country for heightened awareness/interest in development\n            co-operation (brochures, lectures, special research projects, etc.)."
-      category: "998"
-      category-name: "UNALLOCATED/ UNSPECIFIED"
-      category-description: null
+11110:
+  name: "Education policy and administrative management"
+  description: "Education sector policy, planning and programmes; aid to education ministries,\n            administration and management systems; institution capacity building and advice; school\n            management and governance; curriculum and materials development; unspecified education\n            activities."
+  category: "111:
+  category-name: "Education, level unspecified"
+  category-description: "The codes in this category are to be used only when level of education\n            is unspecified or unknown (e.g. training of primary school teachers should be coded\n            under 11220)."
+11120:
+  name: "Education facilities and training"
+  description: "Educational buildings, equipment, materials; subsidiary services to education\n            (boarding facilities, staff housing); language training; colloquia, seminars, lectures,\n            etc."
+  category: "111:
+  category-name: "Education, level unspecified"
+  category-description: "The codes in this category are to be used only when level of education\n            is unspecified or unknown (e.g. training of primary school teachers should be coded\n            under 11220)."
+11130:
+  name: "Teacher training"
+  description: "Teacher education (where the level of education is unspecified); in-service and\n            pre-service training; materials development."
+  category: "111:
+  category-name: "Education, level unspecified"
+  category-description: "The codes in this category are to be used only when level of education\n            is unspecified or unknown (e.g. training of primary school teachers should be coded\n            under 11220)."
+11182:
+  name: "Educational research"
+  description: "Research and studies on education effectiveness, relevance and quality;\n            systematic evaluation and monitoring."
+  category: "111:
+  category-name: "Education, level unspecified"
+  category-description: "The codes in this category are to be used only when level of education\n            is unspecified or unknown (e.g. training of primary school teachers should be coded\n            under 11220)."
+11220:
+  name: "Primary education"
+  description: "Formal and non-formal primary education for children; all elementary and first\n            cycle systematic instruction; provision of learning materials."
+  category: "112:
+  category-name: "Basic education"
+  category-description: null
+11230:
+  name: "Basic life skills for youth and adults"
+  description: "Formal and non-formal education for basic life skills for young people and\n            adults (adults education); literacy and numeracy training."
+  category: "112:
+  category-name: "Basic education"
+  category-description: null
+11240:
+  name: "Early childhood education"
+  description: "Formal and non-formal pre-school education."
+  category: "112:
+  category-name: "Basic education"
+  category-description: null
+11320:
+  name: "Secondary education"
+  description: "Second cycle systematic instruction at both junior and senior\n            levels."
+  category: "113:
+  category-name: "Secondary education"
+  category-description: null
+11330:
+  name: "Vocational training"
+  description: "Elementary vocational training and secondary level technical education; on-the\n            job training; apprenticeships; including informal vocational training."
+  category: "113:
+  category-name: "Secondary education"
+  category-description: null
+11420:
+  name: "Higher education"
+  description: "Degree and diploma programmes at universities, colleges and polytechnics;\n            scholarships."
+  category: "114:
+  category-name: "Post-secondary education"
+  category-description: null
+11430:
+  name: "Advanced technical and managerial training"
+  description: "Professional-level vocational training programmes and in-service\n            training."
+  category: "114:
+  category-name: "Post-secondary education"
+  category-description: null
+12110:
+  name: "Health policy and administrative management"
+  description: "Health sector policy, planning and programmes; aid to health ministries, public\n            health administration; institution capacity building and advice; medical insurance\n            programmes; unspecified health activities."
+  category: "121:
+  category-name: "Health, general"
+  category-description: null
+12181:
+  name: "Medical education/training"
+  description: "Medical education and training for tertiary level services."
+  category: "121:
+  category-name: "Health, general"
+  category-description: null
+12182:
+  name: "Medical research"
+  description: "General medical research (excluding basic health research)."
+  category: "121:
+  category-name: "Health, general"
+  category-description: null
+12191:
+  name: "Medical services"
+  description: "Laboratories, specialised clinics and hospitals (including equipment and\n            supplies); ambulances; dental services; mental health care; medical rehabilitation;\n            control of non-infectious diseases; drug and substance abuse control [excluding\n            narcotics traffic control (16063)]."
+  category: "121:
+  category-name: "Health, general"
+  category-description: null
+12220:
+  name: "Basic health care"
+  description: "Basic and primary health care programmes; paramedical and nursing care\n            programmes; supply of drugs, medicines and vaccines related to basic health\n            care."
+  category: "122:
+  category-name: "Basic health"
+  category-description: null
+12230:
+  name: "Basic health infrastructure"
+  description: "District-level hospitals, clinics and dispensaries and related medical\n            equipment; excluding specialised hospitals and clinics (12191)."
+  category: "122:
+  category-name: "Basic health"
+  category-description: null
+12240:
+  name: "Basic nutrition"
+  description: "Direct feeding programmes (maternal feeding, breastfeeding and weaning foods,\n            child feeding, school feeding); determination of micro-nutrient deficiencies; provision\n            of vitamin A, iodine, iron etc.; monitoring of nutritional status; nutrition and food\n            hygiene education; household food security."
+  category: "122:
+  category-name: "Basic health"
+  category-description: null
+12250:
+  name: "Infectious disease control"
+  description: "Immunisation; prevention and control of infectious and parasite diseases,\n            except malaria (12262), tuberculosis (12263), HIV/AIDS and other STDs (13040). It\n            includes diarrheal diseases, vector-borne diseases (e.g. river blindness and guinea\n            worm), viral diseases, mycosis, helminthiasis, zoonosis, diseases by other bacteria and\n            viruses, pediculosis, etc."
+  category: "122:
+  category-name: "Basic health"
+  category-description: null
+12261:
+  name: "Health education"
+  description: "Information, education and training of the population for improving health\n            knowledge and practices; public health and awareness campaigns."
+  category: "122:
+  category-name: "Basic health"
+  category-description: null
+12262:
+  name: "Malaria control"
+  description: "Prevention and control of malaria."
+  category: "122:
+  category-name: "Basic health"
+  category-description: null
+12263:
+  name: "Tuberculosis control"
+  description: "Immunisation, prevention and control of tuberculosis."
+  category: "122:
+  category-name: "Basic health"
+  category-description: null
+12281:
+  name: "Health personnel development"
+  description: "Training of health staff for basic health care services."
+  category: "122:
+  category-name: "Basic health"
+  category-description: null
+13010:
+  name: "Population policy and administrative management"
+  description: "Population/development policies; census work, vital registration; migration\n            data; demographic research/analysis; reproductive health research; unspecified\n            population activities."
+  category: "130:
+  category-name: "POPULATION POLICIES/PROGRAMMES AND REPRODUCTIVE HEALTH"
+  category-description: null
+13020:
+  name: "Reproductive health care"
+  description: "Promotion of reproductive health; prenatal and postnatal care including\n            delivery; prevention and treatment of infertility; prevention and management of\n            consequences of abortion; safe motherhood activities."
+  category: "130:
+  category-name: "POPULATION POLICIES/PROGRAMMES AND REPRODUCTIVE HEALTH"
+  category-description: null
+13030:
+  name: "Family planning"
+  description: "Family planning services including counselling; information, education and\n            communication (IEC) activities; delivery of contraceptives; capacity building and\n            training."
+  category: "130:
+  category-name: "POPULATION POLICIES/PROGRAMMES AND REPRODUCTIVE HEALTH"
+  category-description: null
+13040:
+  name: "STD control including HIV/AIDS"
+  description: "All activities related to sexually transmitted diseases and HIV/AIDS control\n            e.g. information, education and communication; testing; prevention; treatment,\n            care."
+  category: "130:
+  category-name: "POPULATION POLICIES/PROGRAMMES AND REPRODUCTIVE HEALTH"
+  category-description: null
+13081:
+  name: "Personnel development for population and reproductive health"
+  description: "Education and training of health staff for population and reproductive health\n            care services."
+  category: "130:
+  category-name: "POPULATION POLICIES/PROGRAMMES AND REPRODUCTIVE HEALTH"
+  category-description: null
+14010:
+  name: "Water resources policy and administrative management"
+  description: "Water sector policy, planning and programmes; water legislation and management;\n            institution capacity building and advice; water supply assessments and studies;\n            groundwater, water quality and watershed studies; hydrogeology; excluding agricultural\n            water resources (31140)."
+  category: "140:
+  category-name: "WATER AND SANITATION"
+  category-description: null
+14015:
+  name: "Water resources protection"
+  description: "Inland surface waters (rivers, lakes, etc.); conservation and rehabilitation of\n            ground water; prevention of water contamination from agro-chemicals, industrial\n            effluents."
+  category: "140:
+  category-name: "WATER AND SANITATION"
+  category-description: null
+14020:
+  name: "Water supply and sanitation - large systems"
+  description: "Water desalination plants; intakes, storage, treatment, pumping stations,\n            conveyance and distribution systems; sewerage; domestic and industrial waste water\n            treatment plants."
+  category: "140:
+  category-name: "WATER AND SANITATION"
+  category-description: null
+14021:
+  name: "Water supply - large systems "
+  description: "Potable water treatment plants; intake works; storage; water supply pumping\n            stations; large scale transmission / conveyance and distribution systems."
+  category: "140:
+  category-name: "WATER AND SANITATION"
+  category-description: null
+14022:
+  name: "Sanitation - large systems"
+  description: "Large scale sewerage including trunk sewers and sewage pumping stations;\n            domestic and industrial waste water treatment plants."
+  category: "140:
+  category-name: "WATER AND SANITATION"
+  category-description: null
+14030:
+  name: "Basic drinking water supply and basic sanitation"
+  description: "Water supply and sanitation through low-cost technologies such as handpumps,\n            spring catchment, gravity-fed systems, rain water collection, storage tanks, small\n            distribution systems; latrines, small-bore sewers, on-site disposal (septic\n            tanks)."
+  category: "140:
+  category-name: "WATER AND SANITATION"
+  category-description: null
+14031:
+  name: "Basic drinking water supply"
+  description: "Rural water supply schemes using handpumps, spring catchments, gravity-fed\n            systems, rainwater collection and fog harvesting, storage tanks, small distribution\n            systems typically with shared connections/points of use. Urban schemes using handpumps\n            and local neighbourhood networks including those with shared connections."
+  category: "140:
+  category-name: "WATER AND SANITATION"
+  category-description: null
+14032:
+  name: "Basic sanitation"
+  description: "Latrines, on-site disposal and alternative sanitation systems, including the\n            promotion of household and community investments in the construction of these\n            facilities. (Use code 12261 for activities promoting improved personal hygiene\n            practices.)"
+  category: "140:
+  category-name: "WATER AND SANITATION"
+  category-description: null
+14040:
+  name: "River development"
+  description: "Integrated river basin projects; river flow control; dams and reservoirs\n            [excluding dams primarily for irrigation (31140) and hydropower (23065) and activities\n            related to river transport (21040)]."
+  category: "140:
+  category-name: "WATER AND SANITATION"
+  category-description: null
+14050:
+  name: "Waste management/disposal"
+  description: "Municipal and industrial solid waste management, including hazardous and toxic\n            waste; collection, disposal and treatment; landfill areas; composting and\n            reuse."
+  category: "140:
+  category-name: "WATER AND SANITATION"
+  category-description: null
+14081:
+  name: "Education and training in water supply and sanitation"
+  description: null
+  category: "140:
+  category-name: "WATER AND SANITATION"
+  category-description: null
+15110:
+  name: "Economic and development policy/planning"
+  description: "Institution-building assistance to strengthen core public sector management\n            systems and capacities. This includes macro-economic and other policy management,\n            co-ordination, planning and reform; human resource management; organisational\n            development; civil service reform; e‑government; development planning, monitoring and\n            evaluation; support to ministries involved in aid co-ordination; other ministries and\n            government departments when sector cannot be specified. (Use specific sector codes for\n            development of systems and capacities in sector ministries.) "
+  category: "151:
+  category-name: "Government and civil society, general"
+  category-description: "N.B. Use code 51010 for general budget support."
+15111:
+  name: "Public finance management"
+  description: "Fiscal policy and planning; support to ministries of finance; strengthening\n            financial and managerial accountability; public expenditure management; improving\n            financial management systems; tax policy and administration; budget drafting;\n            inter-governmental fiscal relations, public audit, public debt. (Use code 33120 for\n            customs.) "
+  category: "151:
+  category-name: "Government and civil society, general"
+  category-description: "N.B. Use code 51010 for general budget support."
+15112:
+  name: "Decentralisation and support to subnational government"
+  description: "Decentralisation processes (including political, administrative and fiscal\n            dimensions); intergovernmental relations and federalism; strengthening departments of\n            regional and local government, regional and local authorities and their national\n            associations. (Use specific sector codes for decentralisation of sector management and\n            services.) "
+  category: "151:
+  category-name: "Government and civil society, general"
+  category-description: "N.B. Use code 51010 for general budget support."
+15113:
+  name: "Anti-corruption organisations and institutions"
+  description: "Specialised organisations, institutions and frameworks for the prevention of\n            and combat against corruption, bribery, money-laundering and other aspects of organised\n            crime, with or without law enforcement powers, e.g. anti-corruption commissions and\n            monitoring bodies, special investigation services, institutions and initiatives of\n            integrity and ethics oversight, specialised NGOs, other civil society and citizens’\n            organisations directly concerned with corruption. "
+  category: "151:
+  category-name: "Government and civil society, general"
+  category-description: "N.B. Use code 51010 for general budget support."
+15120:
+  name: "Public sector financial management"
+  description: "Strengthening financial and managerial accountability; public expenditure\n            management; improving financial management systems; tax assessment procedures; budget\n            drafting; field auditing; measures against waste, fraud and corruption."
+  category: "151:
+  category-name: "Government and civil society, general"
+  category-description: "N.B. Use code 51010 for general budget support."
+15130:
+  name: "Legal and judicial development"
+  description: "Constitutional development, legal drafting; institutional strengthening of\n            legal and judicial systems; legal training and education; legal advice and services;\n            crime prevention."
+  category: "151:
+  category-name: "Government and civil society, general"
+  category-description: "N.B. Use code 51010 for general budget support."
+15140:
+  name: "Government administration"
+  description: "Systems of government including parliament, local government, decentralisation;\n            civil service and civil service reform. Including general services by government (or\n            commissioned by government) not elsewhere specified e.g. police, fire protection;\n            cartography, meteorology, legal metrology, aerial surveys and remote sensing;\n            administrative buildings."
+  category: "151:
+  category-name: "Government and civil society, general"
+  category-description: "N.B. Use code 51010 for general budget support."
+15150:
+  name: "Democratic participation and civil society"
+  description: "Support to the exercise of democracy and diverse forms of participation of\n            citizens beyond elections (15151); direct democracy instruments such as referenda and\n            citizens’ initiatives; support to organisations to represent and advocate for their\n            members, to monitor, engage and hold governments to account, and to help citizens learn\n            to act in the public sphere; curricula and teaching for civic education at various\n            levels. (This purpose code is restricted to activities targeting governance issues. When\n            assistance to civil society is for non-governance purposes use other appropriate purpose\n            codes.)"
+  category: "151:
+  category-name: "Government and civil society, general"
+  category-description: "N.B. Use code 51010 for general budget support."
+15151:
+  name: "Elections"
+  description: "Electoral management bodies and processes, election observation, voters'\n            education. (Use code 15230 when in the context of an international peacekeeping\n            operation.)"
+  category: "151:
+  category-name: "Government and civil society, general"
+  category-description: "N.B. Use code 51010 for general budget support."
+15152:
+  name: "Legislatures and political parties"
+  description: "Assistance to strengthen key functions of legislatures/ parliaments including\n            subnational assemblies and councils (representation; oversight; legislation), such as\n            improving the capacity of legislative bodies, improving legislatures’ committees and\n            administrative procedures,; research and information management systems; providing\n            training programmes for legislators and support personnel. Assistance to political\n            parties and strengthening of party systems."
+  category: "151:
+  category-name: "Government and civil society, general"
+  category-description: "N.B. Use code 51010 for general budget support."
+15153:
+  name: "Media and free flow of information"
+  description: "Activities that support free and uncensored flow of information on public\n            issues; activities that increase the editorial and technical skills and the integrity of\n            the print and broadcast media, e.g. training of journalists. (Use codes 22010-22040 for\n            provision of equipment and capital assistance to media.)"
+  category: "151:
+  category-name: "Government and civil society, general"
+  category-description: "N.B. Use code 51010 for general budget support."
+15160:
+  name: "Human rights"
+  description: "Measures to support specialised official human rights institutions and\n            mechanisms at universal, regional, national and local levels in their statutory roles to\n            promote and protect civil and political, economic, social and cultural rights as defined\n            in international conventions and covenants; translation of international human rights\n            commitments into national legislation; reporting and follow-up; human rights dialogue.\n            Human rights defenders and human rights NGOs; human rights advocacy, activism,\n            mobilisation; awareness raising and public human rights education. Human rights\n            programming targeting specific groups, e.g. children, persons with disabilities,\n            migrants, ethnic, religious, linguistic and sexual minorities, indigenous people and\n            those suffering from caste discrimination, victims of trafficking, victims of torture.\n            (Use code 15230 when in the context of an international peacekeeping operation) "
+  category: "151:
+  category-name: "Government and civil society, general"
+  category-description: "N.B. Use code 51010 for general budget support."
+15170:
+  name: "Women's equality organisations and institutions *"
+  description: "\n            Support for institutions and organisations (governmental and non-governmental)\n            working for gender equality and women's empowerment."
+  category: "151:
+  category-name: "Government and civil society, general"
+  category-description: "N.B. Use code 51010 for general budget support."
+15210:
+  name: "Security system management and reform"
+  description: "Technical co-operation provided to parliament, government ministries, law\n            enforcement agencies and the judiciary to assist review and reform of the security\n            system to improve democratic governance and civilian control; technical co-operation\n            provided to government to improve civilian oversight and democratic control of\n            budgeting, management, accountability and auditing of security expenditure, including\n            military budgets, as part of a public expenditure management programme; assistance to\n            civil society to enhance its competence and capacity to scrutinise the security system\n            so that it is managed in accordance with democratic norms and principles of\n            accountability, transparency and good governance."
+  category: "152:
+  category-name: "Conflict prevention and resolution, peace and security"
+  category-description: "N.B. Further notes on ODA eligibility (and exclusions) of conflict,\n            peace and security related activities are given in paragraphs 41-46 of the DAC\n            Statistical Reporting Directives."
+15220:
+  name: "Civilian peace-building, conflict prevention and resolution"
+  description: "Support for civilian activities related to peace building, conflict prevention\n            and resolution, including capacity building, monitoring, dialogue and information\n            exchange."
+  category: "152:
+  category-name: "Conflict prevention and resolution, peace and security"
+  category-description: "N.B. Further notes on ODA eligibility (and exclusions) of conflict,\n            peace and security related activities are given in paragraphs 41-46 of the DAC\n            Statistical Reporting Directives."
+15230:
+  name: "Post-conflict peace-building (UN)"
+  description: "Participation in the post-conflict peace-building phase of United Nations peace\n            operations (activities such as human rights and elections monitoring, rehabilitation of\n            demobilised soldiers, rehabilitation of basic national infrastructure, monitoring or\n            retraining of civil administrators and police forces, training in customs and border\n            control procedures, advice or training in fiscal or macroeconomic stabilisation policy,\n            repatriation and demobilisation of armed factions, and disposal of their weapons;\n            support for landmine removal). Direct contributions to the UN peacekeeping budget are\n            excluded from bilateral ODA (they are reportable in part as multilateral\n            ODA)."
+  category: "152:
+  category-name: "Conflict prevention and resolution, peace and security"
+  category-description: "N.B. Further notes on ODA eligibility (and exclusions) of conflict,\n            peace and security related activities are given in paragraphs 41-46 of the DAC\n            Statistical Reporting Directives."
+15240:
+  name: "Reintegration and SALW control"
+  description: "Reintegration of demobilised military personnel into the economy; conversion of\n            production facilities from military to civilian outputs; technical co-operation to\n            control, prevent and/or reduce the proliferation of small arms and light weapons (SALW)\n            - see para. 39 of the DAC Statistical Reporting Directives for definition of SALW\n            activities covered. [Other than in connection with UN peace-building (15230) or child\n            soldiers (15261)]."
+  category: "152:
+  category-name: "Conflict prevention and resolution, peace and security"
+  category-description: "N.B. Further notes on ODA eligibility (and exclusions) of conflict,\n            peace and security related activities are given in paragraphs 41-46 of the DAC\n            Statistical Reporting Directives."
+15250:
+  name: "Land mine clearance"
+  description: "Explosive mine removal for developmental purposes [other than in connection\n            with UN peace-building (15230)]."
+  category: "152:
+  category-name: "Conflict prevention and resolution, peace and security"
+  category-description: "N.B. Further notes on ODA eligibility (and exclusions) of conflict,\n            peace and security related activities are given in paragraphs 41-46 of the DAC\n            Statistical Reporting Directives."
+15261:
+  name: "Child soldiers (Prevention and demobilisation)"
+  description: "Technical co-operation provided to government and assistance to civil society\n            organisations to support and apply legislation designed to prevent the recruitment of\n            child soldiers, and to demobilise, disarm, reintegrate, repatriate and resettle (DDR)\n            child soldiers."
+  category: "152:
+  category-name: "Conflict prevention and resolution, peace and security"
+  category-description: "N.B. Further notes on ODA eligibility (and exclusions) of conflict,\n            peace and security related activities are given in paragraphs 41-46 of the DAC\n            Statistical Reporting Directives."
+16010:
+  name: "Social/ welfare services"
+  description: "Social legislation and administration; institution capacity building and\n            advice; social security and other social schemes; special programmes for the elderly,\n            orphans, the disabled, street children; social dimensions of structural adjustment;\n            unspecified social infrastructure and services, including consumer\n            protection."
+  category: "160:
+  category-name: "OTHER SOCIAL INFRASTRUCTURE AND SERVICES"
+  category-description: null
+16020:
+  name: "Employment policy and administrative management"
+  description: "Employment policy and planning; labour law; labour unions; institution capacity\n            building and advice; support programmes for unemployed; employment creation and income\n            generation programmes; occupational safety and health; combating child\n            labour."
+  category: "160:
+  category-name: "OTHER SOCIAL INFRASTRUCTURE AND SERVICES"
+  category-description: null
+16030:
+  name: "Housing policy and administrative management"
+  description: "Housing sector policy, planning and programmes; excluding low-cost housing and\n            slum clearance (16040)."
+  category: "160:
+  category-name: "OTHER SOCIAL INFRASTRUCTURE AND SERVICES"
+  category-description: null
+16040:
+  name: "Low-cost housing"
+  description: "Including slum clearance."
+  category: "160:
+  category-name: "OTHER SOCIAL INFRASTRUCTURE AND SERVICES"
+  category-description: null
+16050:
+  name: "Multisector aid for basic social services"
+  description: "Basic social services are defined to include basic education, basic health,\n            basic nutrition, population/reproductive health and basic drinking water supply and\n            basic sanitation."
+  category: "160:
+  category-name: "OTHER SOCIAL INFRASTRUCTURE AND SERVICES"
+  category-description: null
+16061:
+  name: "Culture and recreation"
+  description: "Including libraries and museums."
+  category: "160:
+  category-name: "OTHER SOCIAL INFRASTRUCTURE AND SERVICES"
+  category-description: null
+16062:
+  name: "Statistical capacity building"
+  description: "Both in national statistical offices and any other government\n            ministries."
+  category: "160:
+  category-name: "OTHER SOCIAL INFRASTRUCTURE AND SERVICES"
+  category-description: null
+16063:
+  name: "Narcotics control"
+  description: "In-country and customs controls including training of the police; educational\n            programmes and awareness campaigns to restrict narcotics traffic and in-country\n            distribution."
+  category: "160:
+  category-name: "OTHER SOCIAL INFRASTRUCTURE AND SERVICES"
+  category-description: null
+16064:
+  name: "Social mitigation of HIV/AIDS"
+  description: "Special programmes to address the consequences of HIV/AIDS, e.g. social, legal\n            and economic assistance to people living with HIV/AIDS including food security and\n            employment; support to vulnerable groups and children orphaned by HIV/AIDS; human rights\n            of HIV/AIDS affected people."
+  category: "160:
+  category-name: "OTHER SOCIAL INFRASTRUCTURE AND SERVICES"
+  category-description: null
+21010:
+  name: "Transport policy and administrative management"
+  description: "Transport sector policy, planning and programmes; aid to transport ministries;\n            institution capacity building and advice; unspecified transport; activities that combine\n            road, rail, water and/or air transport."
+  category: "210:
+  category-name: "TRANSPORT AND STORAGE"
+  category-description: "Note: Manufacturing of transport equipment should be included under\n            code 32172."
+21020:
+  name: "Road transport"
+  description: "Road infrastructure, road vehicles; passenger road transport, motor passenger\n            cars."
+  category: "210:
+  category-name: "TRANSPORT AND STORAGE"
+  category-description: "Note: Manufacturing of transport equipment should be included under\n            code 32172."
+21030:
+  name: "Rail transport"
+  description: "Rail infrastructure, rail equipment, locomotives, other rolling stock;\n            including light rail (tram) and underground systems."
+  category: "210:
+  category-name: "TRANSPORT AND STORAGE"
+  category-description: "Note: Manufacturing of transport equipment should be included under\n            code 32172."
+21040:
+  name: "Water transport"
+  description: "Harbours and docks, harbour guidance systems, ships and boats; river and other\n            inland water transport, inland barges and vessels."
+  category: "210:
+  category-name: "TRANSPORT AND STORAGE"
+  category-description: "Note: Manufacturing of transport equipment should be included under\n            code 32172."
+21050:
+  name: "Air transport"
+  description: "Airports, airport guidance systems, aeroplanes, aeroplane maintenance\n            equipment."
+  category: "210:
+  category-name: "TRANSPORT AND STORAGE"
+  category-description: "Note: Manufacturing of transport equipment should be included under\n            code 32172."
+21061:
+  name: "Storage"
+  description: "Whether or not related to transportation."
+  category: "210:
+  category-name: "TRANSPORT AND STORAGE"
+  category-description: "Note: Manufacturing of transport equipment should be included under\n            code 32172."
+21081:
+  name: "Education and training in transport and storage"
+  description: null
+  category: "210:
+  category-name: "TRANSPORT AND STORAGE"
+  category-description: "Note: Manufacturing of transport equipment should be included under\n            code 32172."
+22010:
+  name: "Communications policy and administrative management"
+  description: "Communications sector policy, planning and programmes; institution capacity\n            building and advice; including postal services development; unspecified communications\n            activities."
+  category: "220:
+  category-name: "COMMUNICATION"
+  category-description: null
+22020:
+  name: "Telecommunications"
+  description: "Telephone networks, telecommunication satellites, earth stations."
+  category: "220:
+  category-name: "COMMUNICATION"
+  category-description: null
+22030:
+  name: "Radio/television/print media"
+  description: "Radio and TV links, equipment; newspapers; printing and\n            publishing."
+  category: "220:
+  category-name: "COMMUNICATION"
+  category-description: null
+22040:
+  name: "Information and communication technology (ICT)"
+  description: "Computer hardware and software; internet access; IT training. When sector\n            cannot be specified."
+  category: "220:
+  category-name: "COMMUNICATION"
+  category-description: null
+23010:
+  name: "Energy policy and administrative management"
+  description: "Energy sector policy, planning and programmes; aid to energy ministries;\n            institution capacity building and advice; unspecified energy activities including energy\n            conservation."
+  category: "230:
+  category-name: "ENERGY GENERATION AND SUPPLY"
+  category-description: "Note: Extraction of raw materials for power generation should be\n            included in the mining sector. Energy manufacturing should be included in the industry\n            sector."
+23020:
+  name: "Power generation/non-renewable sources"
+  description: "Thermal power plants including when heat source cannot be determined; combined\n            gas-coal power plants."
+  category: "230:
+  category-name: "ENERGY GENERATION AND SUPPLY"
+  category-description: "Note: Extraction of raw materials for power generation should be\n            included in the mining sector. Energy manufacturing should be included in the industry\n            sector."
+23030:
+  name: "Power generation/renewable sources"
+  description: "Including policy, planning, development programmes, surveys and incentives.\n            Fuelwood/ charcoal production should be included under forestry (31261)."
+  category: "230:
+  category-name: "ENERGY GENERATION AND SUPPLY"
+  category-description: "Note: Extraction of raw materials for power generation should be\n            included in the mining sector. Energy manufacturing should be included in the industry\n            sector."
+23040:
+  name: "Electrical transmission/ distribution"
+  description: "Distribution from power source to end user; transmission lines."
+  category: "230:
+  category-name: "ENERGY GENERATION AND SUPPLY"
+  category-description: "Note: Extraction of raw materials for power generation should be\n            included in the mining sector. Energy manufacturing should be included in the industry\n            sector."
+23050:
+  name: "Gas distribution"
+  description: "Delivery for use by ultimate consumer."
+  category: "230:
+  category-name: "ENERGY GENERATION AND SUPPLY"
+  category-description: "Note: Extraction of raw materials for power generation should be\n            included in the mining sector. Energy manufacturing should be included in the industry\n            sector."
+23061:
+  name: "Oil-fired power plants"
+  description: "Including diesel power plants."
+  category: "230:
+  category-name: "ENERGY GENERATION AND SUPPLY"
+  category-description: "Note: Extraction of raw materials for power generation should be\n            included in the mining sector. Energy manufacturing should be included in the industry\n            sector."
+23062:
+  name: "Gas-fired power plants"
+  description: null
+  category: "230:
+  category-name: "ENERGY GENERATION AND SUPPLY"
+  category-description: "Note: Extraction of raw materials for power generation should be\n            included in the mining sector. Energy manufacturing should be included in the industry\n            sector."
+23063:
+  name: "Coal-fired power plants"
+  description: null
+  category: "230:
+  category-name: "ENERGY GENERATION AND SUPPLY"
+  category-description: "Note: Extraction of raw materials for power generation should be\n            included in the mining sector. Energy manufacturing should be included in the industry\n            sector."
+23064:
+  name: "Nuclear power plants"
+  description: "Including nuclear safety."
+  category: "230:
+  category-name: "ENERGY GENERATION AND SUPPLY"
+  category-description: "Note: Extraction of raw materials for power generation should be\n            included in the mining sector. Energy manufacturing should be included in the industry\n            sector."
+23065:
+  name: "Hydro-electric power plants"
+  description: "Including power-generating river barges."
+  category: "230:
+  category-name: "ENERGY GENERATION AND SUPPLY"
+  category-description: "Note: Extraction of raw materials for power generation should be\n            included in the mining sector. Energy manufacturing should be included in the industry\n            sector."
+23066:
+  name: "Geothermal energy"
+  description: null
+  category: "230:
+  category-name: "ENERGY GENERATION AND SUPPLY"
+  category-description: "Note: Extraction of raw materials for power generation should be\n            included in the mining sector. Energy manufacturing should be included in the industry\n            sector."
+23067:
+  name: "Solar energy"
+  description: "Including photo-voltaic cells, solar thermal applications and solar\n            heating."
+  category: "230:
+  category-name: "ENERGY GENERATION AND SUPPLY"
+  category-description: "Note: Extraction of raw materials for power generation should be\n            included in the mining sector. Energy manufacturing should be included in the industry\n            sector."
+23068:
+  name: "Wind power"
+  description: "Wind energy for water lifting and electric power generation."
+  category: "230:
+  category-name: "ENERGY GENERATION AND SUPPLY"
+  category-description: "Note: Extraction of raw materials for power generation should be\n            included in the mining sector. Energy manufacturing should be included in the industry\n            sector."
+23069:
+  name: "Ocean power"
+  description: "Including ocean thermal energy conversion, tidal and wave power."
+  category: "230:
+  category-name: "ENERGY GENERATION AND SUPPLY"
+  category-description: "Note: Extraction of raw materials for power generation should be\n            included in the mining sector. Energy manufacturing should be included in the industry\n            sector."
+23070:
+  name: "Biomass"
+  description: "Densification technologies and use of biomass for direct power generation\n            including biogas, gas obtained from sugar cane and other plant residues, anaerobic\n            digesters."
+  category: "230:
+  category-name: "ENERGY GENERATION AND SUPPLY"
+  category-description: "Note: Extraction of raw materials for power generation should be\n            included in the mining sector. Energy manufacturing should be included in the industry\n            sector."
+23081:
+  name: "Energy education/training"
+  description: "Applies to all energy sub-sectors; all levels of training."
+  category: "230:
+  category-name: "ENERGY GENERATION AND SUPPLY"
+  category-description: "Note: Extraction of raw materials for power generation should be\n            included in the mining sector. Energy manufacturing should be included in the industry\n            sector."
+23082:
+  name: "Energy research"
+  description: "Including general inventories, surveys."
+  category: "230:
+  category-name: "ENERGY GENERATION AND SUPPLY"
+  category-description: "Note: Extraction of raw materials for power generation should be\n            included in the mining sector. Energy manufacturing should be included in the industry\n            sector."
+24010:
+  name: "Financial policy and administrative management"
+  description: "Finance sector policy, planning and programmes; institution capacity building\n            and advice; financial markets and systems."
+  category: "240:
+  category-name: "BANKING AND FINANCIAL SERVICES"
+  category-description: null
+24020:
+  name: "Monetary institutions"
+  description: "Central banks."
+  category: "240:
+  category-name: "BANKING AND FINANCIAL SERVICES"
+  category-description: null
+24030:
+  name: "Formal sector financial intermediaries"
+  description: "All formal sector financial intermediaries; credit lines; insurance, leasing,\n            venture capital, etc. (except when focused on only one sector)."
+  category: "240:
+  category-name: "BANKING AND FINANCIAL SERVICES"
+  category-description: null
+24040:
+  name: "Informal/semi-formal financial intermediaries"
+  description: "Micro credit, savings and credit co-operatives etc."
+  category: "240:
+  category-name: "BANKING AND FINANCIAL SERVICES"
+  category-description: null
+24081:
+  name: "Education/training in banking and financial services"
+  description: null
+  category: "240:
+  category-name: "BANKING AND FINANCIAL SERVICES"
+  category-description: null
+25010:
+  name: "Business support services and institutions"
+  description: "Support to trade and business associations, chambers of commerce; legal and\n            regulatory reform aimed at improving business and investment climate; private sector\n            institution capacity building and advice; trade information; public-private sector\n            networking including trade fairs; e?commerce. Where sector cannot be specified: general\n            support to private sector enterprises (in particular, use code 32130 for enterprises in\n            the industrial sector)."
+  category: "250:
+  category-name: "BUSINESS AND OTHER SERVICES"
+  category-description: null
+25020:
+  name: "Privatisation"
+  description: "When sector cannot be specified. Including general state enterprise\n            restructuring or demonopolisation programmes; planning, programming,\n            advice."
+  category: "250:
+  category-name: "BUSINESS AND OTHER SERVICES"
+  category-description: null
+31110:
+  name: "Agricultural policy and administrative management"
+  description: "Agricultural sector policy, planning and programmes; aid to agricultural\n            ministries; institution capacity building and advice; unspecified\n            agriculture."
+  category: "311:
+  category-name: "AGRICULTURE"
+  category-description: null
+31120:
+  name: "Agricultural development"
+  description: "Integrated projects; farm development."
+  category: "311:
+  category-name: "AGRICULTURE"
+  category-description: null
+31130:
+  name: "Agricultural land resources"
+  description: "Including soil degradation control; soil improvement; drainage of water logged\n            areas; soil desalination; agricultural land surveys; land reclamation; erosion control,\n            desertification control."
+  category: "311:
+  category-name: "AGRICULTURE"
+  category-description: null
+31140:
+  name: "Agricultural water resources"
+  description: "Irrigation, reservoirs, hydraulic structures, ground water exploitation for\n            agricultural use."
+  category: "311:
+  category-name: "AGRICULTURE"
+  category-description: null
+31150:
+  name: "Agricultural inputs"
+  description: "Supply of seeds, fertilizers, agricultural machinery/equipment."
+  category: "311:
+  category-name: "AGRICULTURE"
+  category-description: null
+31161:
+  name: "Food crop production"
+  description: "Including grains (wheat, rice, barley, maize, rye, oats, millet, sorghum);\n            horticulture; vegetables; fruit and berries; other annual and perennial crops. [Use code\n            32161 for agro-industries.]"
+  category: "311:
+  category-name: "AGRICULTURE"
+  category-description: null
+31162:
+  name: "Industrial crops/export crops"
+  description: "Including sugar; coffee, cocoa, tea; oil seeds, nuts, kernels; fibre crops;\n            tobacco; rubber. [Use code 32161 for agro-industries.]"
+  category: "311:
+  category-name: "AGRICULTURE"
+  category-description: null
+31163:
+  name: "Livestock"
+  description: "Animal husbandry; animal feed aid."
+  category: "311:
+  category-name: "AGRICULTURE"
+  category-description: null
+31164:
+  name: "Agrarian reform"
+  description: "Including agricultural sector adjustment."
+  category: "311:
+  category-name: "AGRICULTURE"
+  category-description: null
+31165:
+  name: "Agricultural alternative development"
+  description: "Projects to reduce illicit drug cultivation through other agricultural\n            marketing and production opportunities (see code 43050 for non-agricultural alternative\n            development)."
+  category: "311:
+  category-name: "AGRICULTURE"
+  category-description: null
+31166:
+  name: "Agricultural extension"
+  description: "Non-formal training in agriculture."
+  category: "311:
+  category-name: "AGRICULTURE"
+  category-description: null
+31181:
+  name: "Agricultural education/training"
+  description: null
+  category: "311:
+  category-name: "AGRICULTURE"
+  category-description: null
+31182:
+  name: "Agricultural research"
+  description: "Plant breeding, physiology, genetic resources, ecology, taxonomy, disease\n            control, agricultural bio-technology; including livestock research (animal health,\n            breeding and genetics, nutrition, physiology)."
+  category: "311:
+  category-name: "AGRICULTURE"
+  category-description: null
+31191:
+  name: "Agricultural services"
+  description: "Marketing policies and organisation; storage and transportation, creation of\n            strategic reserves."
+  category: "311:
+  category-name: "AGRICULTURE"
+  category-description: null
+31192:
+  name: "Plant and post-harvest protection and pest control"
+  description: "Including integrated plant protection, biological plant protection activities,\n            supply and management of agrochemicals, supply of pesticides, plant protection policy\n            and legislation."
+  category: "311:
+  category-name: "AGRICULTURE"
+  category-description: null
+31193:
+  name: "Agricultural financial services"
+  description: "Financial intermediaries for the agricultural sector including credit schemes;\n            crop insurance."
+  category: "311:
+  category-name: "AGRICULTURE"
+  category-description: null
+31194:
+  name: "Agricultural co-operatives"
+  description: "Including farmersÂ’ organisations."
+  category: "311:
+  category-name: "AGRICULTURE"
+  category-description: null
+31195:
+  name: "Livestock/veterinary services"
+  description: "Animal health and management, genetic resources, feed resources."
+  category: "311:
+  category-name: "AGRICULTURE"
+  category-description: null
+31210:
+  name: "Forestry policy and administrative management"
+  description: "Forestry sector policy, planning and programmes; institution capacity building\n            and advice; forest surveys; unspecified forestry and agro-forestry\n            activities."
+  category: "312:
+  category-name: "FORESTRY"
+  category-description: null
+31220:
+  name: "Forestry development"
+  description: "Afforestation for industrial and rural consumption; exploitation and\n            utilisation; erosion control, desertification control; integrated forestry\n            projects."
+  category: "312:
+  category-name: "FORESTRY"
+  category-description: null
+31261:
+  name: "Fuelwood/charcoal"
+  description: "Forestry development whose primary purpose is production of fuelwood and\n            charcoal."
+  category: "312:
+  category-name: "FORESTRY"
+  category-description: null
+31281:
+  name: "Forestry education/training"
+  description: null
+  category: "312:
+  category-name: "FORESTRY"
+  category-description: null
+31282:
+  name: "Forestry research"
+  description: "Including artificial regeneration, genetic improvement, production methods,\n            fertilizer, harvesting."
+  category: "312:
+  category-name: "FORESTRY"
+  category-description: null
+31291:
+  name: "Forestry services"
+  description: null
+  category: "312:
+  category-name: "FORESTRY"
+  category-description: null
+31310:
+  name: "Fishing policy and administrative management"
+  description: "Fishing sector policy, planning and programmes; institution capacity building\n            and advice; ocean and coastal fishing; marine and freshwater fish surveys and\n            prospecting; fishing boats/equipment; unspecified fishing activities."
+  category: "313:
+  category-name: "FISHING"
+  category-description: null
+31320:
+  name: "Fishery development"
+  description: "Exploitation and utilisation of fisheries; fish stock protection; aquaculture;\n            integrated fishery projects."
+  category: "313:
+  category-name: "FISHING"
+  category-description: null
+31381:
+  name: "Fishery education/training"
+  description: null
+  category: "313:
+  category-name: "FISHING"
+  category-description: null
+31382:
+  name: "Fishery research"
+  description: "Pilot fish culture; marine/freshwater biological research."
+  category: "313:
+  category-name: "FISHING"
+  category-description: null
+31391:
+  name: "Fishery services"
+  description: "Fishing harbours; fish markets; fishery transport and cold\n            storage."
+  category: "313:
+  category-name: "FISHING"
+  category-description: null
+32110:
+  name: "Industrial policy and administrative management"
+  description: "Industrial sector policy, planning and programmes; institution capacity\n            building and advice; unspecified industrial activities; manufacturing of goods not\n            specified below."
+  category: "321:
+  category-name: "INDUSTRY"
+  category-description: "Only includes aid to production or manufacturing. Provision of\n            finished products should be included under relevant sector."
+32120:
+  name: "Industrial development"
+  description: null
+  category: "321:
+  category-name: "INDUSTRY"
+  category-description: "Only includes aid to production or manufacturing. Provision of\n            finished products should be included under relevant sector."
+32130:
+  name: "Small and medium-sized enterprises (SME) development"
+  description: "Direct support to the development of small and medium-sized enterprises in the\n            industrial sector, including accounting, auditing and advisory services."
+  category: "321:
+  category-name: "INDUSTRY"
+  category-description: "Only includes aid to production or manufacturing. Provision of\n            finished products should be included under relevant sector."
+32140:
+  name: "Cottage industries and handicraft"
+  description: null
+  category: "321:
+  category-name: "INDUSTRY"
+  category-description: "Only includes aid to production or manufacturing. Provision of\n            finished products should be included under relevant sector."
+32161:
+  name: "Agro-industries"
+  description: "Staple food processing, dairy products, slaughter houses and equipment, meat\n            and fish processing and preserving, oils/fats, sugar refineries, beverages/tobacco,\n            animal feeds production."
+  category: "321:
+  category-name: "INDUSTRY"
+  category-description: "Only includes aid to production or manufacturing. Provision of\n            finished products should be included under relevant sector."
+32162:
+  name: "Forest industries"
+  description: "Wood production, pulp/paper production."
+  category: "321:
+  category-name: "INDUSTRY"
+  category-description: "Only includes aid to production or manufacturing. Provision of\n            finished products should be included under relevant sector."
+32163:
+  name: "Textiles, leather and substitutes"
+  description: "Including knitting factories."
+  category: "321:
+  category-name: "INDUSTRY"
+  category-description: "Only includes aid to production or manufacturing. Provision of\n            finished products should be included under relevant sector."
+32164:
+  name: "Chemicals"
+  description: "Industrial and non-industrial production facilities; includes pesticides\n            production."
+  category: "321:
+  category-name: "INDUSTRY"
+  category-description: "Only includes aid to production or manufacturing. Provision of\n            finished products should be included under relevant sector."
+32165:
+  name: "Fertilizer plants"
+  description: null
+  category: "321:
+  category-name: "INDUSTRY"
+  category-description: "Only includes aid to production or manufacturing. Provision of\n            finished products should be included under relevant sector."
+32166:
+  name: "Cement/lime/plaster"
+  description: null
+  category: "321:
+  category-name: "INDUSTRY"
+  category-description: "Only includes aid to production or manufacturing. Provision of\n            finished products should be included under relevant sector."
+32167:
+  name: "Energy manufacturing"
+  description: "Including gas liquefaction; petroleum refineries."
+  category: "321:
+  category-name: "INDUSTRY"
+  category-description: "Only includes aid to production or manufacturing. Provision of\n            finished products should be included under relevant sector."
+32168:
+  name: "Pharmaceutical production"
+  description: "Medical equipment/supplies; drugs, medicines, vaccines; hygienic\n            products."
+  category: "321:
+  category-name: "INDUSTRY"
+  category-description: "Only includes aid to production or manufacturing. Provision of\n            finished products should be included under relevant sector."
+32169:
+  name: "Basic metal industries"
+  description: "Iron and steel, structural metal production."
+  category: "321:
+  category-name: "INDUSTRY"
+  category-description: "Only includes aid to production or manufacturing. Provision of\n            finished products should be included under relevant sector."
+32170:
+  name: "Non-ferrous metal industries"
+  description: null
+  category: "321:
+  category-name: "INDUSTRY"
+  category-description: "Only includes aid to production or manufacturing. Provision of\n            finished products should be included under relevant sector."
+32171:
+  name: "Engineering"
+  description: "Manufacturing of electrical and non-electrical machinery,\n            engines/turbines."
+  category: "321:
+  category-name: "INDUSTRY"
+  category-description: "Only includes aid to production or manufacturing. Provision of\n            finished products should be included under relevant sector."
+32172:
+  name: "Transport equipment industry"
+  description: "Shipbuilding, fishing boats building; railroad equipment; motor vehicles and\n            motor passenger cars; aircraft; navigation/guidance systems."
+  category: "321:
+  category-name: "INDUSTRY"
+  category-description: "Only includes aid to production or manufacturing. Provision of\n            finished products should be included under relevant sector."
+32182:
+  name: "Technological research and development"
+  description: "Including industrial standards; quality management; metrology; testing;\n            accreditation; certification."
+  category: "321:
+  category-name: "INDUSTRY"
+  category-description: "Only includes aid to production or manufacturing. Provision of\n            finished products should be included under relevant sector."
+32210:
+  name: "Mineral/mining policy and administrative management"
+  description: "Mineral and mining sector policy, planning and programmes; mining legislation,\n            mining cadastre, mineral resources inventory, information systems, institution capacity\n            building and advice; unspecified mineral resources exploitation."
+  category: "322:
+  category-name: "MINERAL RESOURCES AND MINING"
+  category-description: null
+32220:
+  name: "Mineral prospection and exploration"
+  description: "Geology, geophysics, geochemistry; excluding hydrogeology (14010) and\n            environmental geology (41010), mineral extraction and processing, infrastructure,\n            technology, economics, safety and environment management."
+  category: "322:
+  category-name: "MINERAL RESOURCES AND MINING"
+  category-description: null
+32261:
+  name: "Coal"
+  description: "Including lignite and peat."
+  category: "322:
+  category-name: "MINERAL RESOURCES AND MINING"
+  category-description: null
+32262:
+  name: "Oil and gas"
+  description: "Petroleum, natural gas, condensates, liquefied petroleum gas (LPG), liquefied\n            natural gas (LNG); including drilling and production."
+  category: "322:
+  category-name: "MINERAL RESOURCES AND MINING"
+  category-description: null
+32263:
+  name: "Ferrous metals"
+  description: "Iron and ferro-alloy metals."
+  category: "322:
+  category-name: "MINERAL RESOURCES AND MINING"
+  category-description: null
+32264:
+  name: "Nonferrous metals"
+  description: "Aluminium, copper, lead, nickel, tin, zinc."
+  category: "322:
+  category-name: "MINERAL RESOURCES AND MINING"
+  category-description: null
+32265:
+  name: "Precious metals/materials"
+  description: "Gold, silver, platinum, diamonds, gemstones."
+  category: "322:
+  category-name: "MINERAL RESOURCES AND MINING"
+  category-description: null
+32266:
+  name: "Industrial minerals"
+  description: "Baryte, limestone, feldspar, kaolin, sand, gypsym, gravel, ornamental\n            stones."
+  category: "322:
+  category-name: "MINERAL RESOURCES AND MINING"
+  category-description: null
+32267:
+  name: "Fertilizer minerals"
+  description: "Phosphates, potash."
+  category: "322:
+  category-name: "MINERAL RESOURCES AND MINING"
+  category-description: null
+32268:
+  name: "Offshore minerals"
+  description: "Polymetallic nodules, phosphorites, marine placer deposits."
+  category: "322:
+  category-name: "MINERAL RESOURCES AND MINING"
+  category-description: null
+32310:
+  name: "Construction policy and administrative management"
+  description: "Construction sector policy and planning; excluding construction activities\n            within specific sectors (e.g., hospital or school construction)."
+  category: "323:
+  category-name: "CONSTRUCTION"
+  category-description: null
+33110:
+  name: "Trade policy and administrative management"
+  description: "Trade policy and planning; support to ministries and departments responsible\n            for trade policy; trade-related legislation and regulatory reforms; policy analysis and\n            implementation of multilateral trade agreements e.g. technical barriers to trade and\n            sanitary and phytosanitary measures (TBT/SPS) except at regional level (see 33130);\n            mainstreaming trade in national development strategies (e.g. poverty reduction strategy\n            papers); wholesale/retail trade; unspecified trade and trade promotion\n            activities."
+  category: "331:
+  category-name: "TRADE POLICY AND REGULATIONS AND TRADE-RELATED ADJUSTMENT"
+  category-description: null
+33120:
+  name: "Trade facilitation"
+  description: "Simplification and harmonisation of international import and export procedures\n            (e.g. customs valuation, licensing procedures, transport formalities, payments,\n            insurance); support to customs departments; tariff reforms."
+  category: "331:
+  category-name: "TRADE POLICY AND REGULATIONS AND TRADE-RELATED ADJUSTMENT"
+  category-description: null
+33130:
+  name: "Regional trade agreements (RTAs)"
+  description: "Support to regional trade arrangements [e.g. Southern African Development\n            Community (SADC), Association of Southeast Asian Nations (ASEAN), Free Trade Area of the\n            Americas (FTAA), African Caribbean Pacific/European Union (ACP/EU)], including work on\n            technical barriers to trade and sanitary and phytosanitary measures (TBT/SPS) at\n            regional level; elaboration of rules of origin and introduction of special and\n            differential treatment in RTAs."
+  category: "331:
+  category-name: "TRADE POLICY AND REGULATIONS AND TRADE-RELATED ADJUSTMENT"
+  category-description: null
+33140:
+  name: "Multilateral trade negotiations"
+  description: "Support developing countries' effective participation in multilateral trade\n            negotiations, including training of negotiators, assessing impacts of negotiations;\n            accession to the World Trade Organisation (WTO) and other multilateral trade-related\n            organisations."
+  category: "331:
+  category-name: "TRADE POLICY AND REGULATIONS AND TRADE-RELATED ADJUSTMENT"
+  category-description: null
+33150:
+  name: "Trade-related adjustment"
+  description: "Contributions to the government budget to assist the implementation of\n            recipients' own trade reforms and adjustments to trade policy measures by other\n            countries; assistance to manage shortfalls in the balance of payments due to changes in\n            the world trading environment."
+  category: "331:
+  category-name: "TRADE POLICY AND REGULATIONS AND TRADE-RELATED ADJUSTMENT"
+  category-description: null
+33181:
+  name: "Trade education/training"
+  description: "Human resources development in trade not included under any of the above codes.\n            Includes university programmes in trade."
+  category: "331:
+  category-name: "TRADE POLICY AND REGULATIONS AND TRADE-RELATED ADJUSTMENT"
+  category-description: null
+33210:
+  name: "Tourism policy and administrative management"
+  description: null
+  category: "332:
+  category-name: "TOURISM"
+  category-description: null
+41010:
+  name: "Environmental policy and administrative management"
+  description: "Environmental policy, laws, regulations and economic instruments;\n            administrational institutions and practices; environmental and land use planning and\n            decision-making procedures; seminars, meetings; miscellaneous conservation and\n            protection measures not specified below."
+  category: "410:
+  category-name: "General environmental protection"
+  category-description: "Non-sector specific."
+41020:
+  name: "Biosphere protection"
+  description: "Air pollution control, ozone layer preservation; marine pollution\n            control."
+  category: "410:
+  category-name: "General environmental protection"
+  category-description: "Non-sector specific."
+41030:
+  name: "Bio-diversity"
+  description: "Including natural reserves and actions in the surrounding areas; other measures\n            to protect endangered or vulnerable species and their habitats (e.g. wetlands\n            preservation)."
+  category: "410:
+  category-name: "General environmental protection"
+  category-description: "Non-sector specific."
+41040:
+  name: "Site preservation"
+  description: "Applies to unique cultural landscape; including sites/objects of historical,\n            archeological, aesthetic, scientific or educational value."
+  category: "410:
+  category-name: "General environmental protection"
+  category-description: "Non-sector specific."
+41050:
+  name: "Flood prevention/control"
+  description: "Floods from rivers or the sea; including sea water intrusion control and sea\n            level rise related activities."
+  category: "410:
+  category-name: "General environmental protection"
+  category-description: "Non-sector specific."
+41081:
+  name: "Environmental education/ training"
+  description: null
+  category: "410:
+  category-name: "General environmental protection"
+  category-description: "Non-sector specific."
+41082:
+  name: "Environmental research"
+  description: "Including establishment of databases, inventories/accounts of physical and\n            natural resources; environmental profiles and impact studies if not sector\n            specific."
+  category: "410:
+  category-name: "General environmental protection"
+  category-description: "Non-sector specific."
+43010:
+  name: "Multisector aid"
+  description: null
+  category: "430:
+  category-name: "Other multisector"
+  category-description: null
+43030:
+  name: "Urban development and management"
+  description: "Integrated urban development projects; local development and urban management;\n            urban infrastructure and services; municipal finances; urban environmental management;\n            urban development and planning; urban renewal and urban housing; land information\n            systems."
+  category: "430:
+  category-name: "Other multisector"
+  category-description: null
+43040:
+  name: "Rural development"
+  description: "Integrated rural development projects; e.g. regional development planning;\n            promotion of decentralised and multi-sectoral competence for planning, co-ordination and\n            management; implementation of regional development and measures (including natural\n            reserve management); land management; land use planning; land settlement and\n            resettlement activities [excluding resettlement of refugees and internally displaced\n            persons (72010)]; functional integration of rural and urban areas; geographical\n            information systems."
+  category: "430:
+  category-name: "Other multisector"
+  category-description: null
+43050:
+  name: "Non-agricultural alternative development"
+  description: "Projects to reduce illicit drug cultivation through, for example,\n            non-agricultural income opportunities, social and physical infrastructure (see code\n            31165 for agricultural alternative development)."
+  category: "430:
+  category-name: "Other multisector"
+  category-description: null
+43081:
+  name: "Multisector education/training"
+  description: "Including scholarships."
+  category: "430:
+  category-name: "Other multisector"
+  category-description: null
+43082:
+  name: "Research/scientific institutions"
+  description: "When sector cannot be identified."
+  category: "430:
+  category-name: "Other multisector"
+  category-description: null
+51010:
+  name: "General budget support"
+  description: "Unearmarked contributions to the government budget; support for the\n            implementation of macroeconomic reforms (structural adjustment programmes, poverty\n            reduction strategies); general programme assistance (when not allocable by\n            sector)."
+  category: "510:
+  category-name: "General budget support"
+  category-description: "Budget support in the form of sector-wide approaches (SWAps) should be\n            included in the respective sectors."
+52010:
+  name: "Food aid/Food security programmes"
+  description: "Supply of edible human food under national or international programmes\n            including transport costs; cash payments made for food supplies; project food aid and\n            food aid for market sales when benefiting sector not specified; excluding emergency food\n            aid."
+  category: "520:
+  category-name: "Developmental food aid/Food security assistance"
+  category-description: null
+53030:
+  name: "Import support (capital goods)"
+  description: "Capital goods and services; lines of credit."
+  category: "530:
+  category-name: "Other commodity assistance"
+  category-description: "Non-food commodity assistance (when benefiting sector not\n            specified)."
+53040:
+  name: "Import support (commodities)"
+  description: "Commodities, general goods and services, oil imports."
+  category: "530:
+  category-name: "Other commodity assistance"
+  category-description: "Non-food commodity assistance (when benefiting sector not\n            specified)."
+60010:
+  name: "Action relating to debt"
+  description: "Actions falling outside the code headings below; training in debt\n            management."
+  category: "600:
+  category-name: "ACTION RELATING TO DEBT"
+  category-description: null
+60020:
+  name: "Debt forgiveness"
+  description: null
+  category: "600:
+  category-name: "ACTION RELATING TO DEBT"
+  category-description: null
+60030:
+  name: "Relief of multilateral debt"
+  description: "Grants or credits to cover debt owed to multilateral financial institutions;\n            including contributions to Heavily Indebted Poor Countries (HIPC) Trust\n            Fund."
+  category: "600:
+  category-name: "ACTION RELATING TO DEBT"
+  category-description: null
+60040:
+  name: "Rescheduling and refinancing"
+  description: null
+  category: "600:
+  category-name: "ACTION RELATING TO DEBT"
+  category-description: null
+60061:
+  name: "Debt for development swap"
+  description: "Allocation of debt claims to use for development (e.g., debt for education,\n            debt for environment)."
+  category: "600:
+  category-name: "ACTION RELATING TO DEBT"
+  category-description: null
+60062:
+  name: "Other debt swap"
+  description: "Where the debt swap benefits an external agent i.e. is not specifically for\n            development purposes."
+  category: "600:
+  category-name: "ACTION RELATING TO DEBT"
+  category-description: null
+60063:
+  name: "Debt buy-back"
+  description: "Purchase of debt for the purpose of cancellation."
+  category: "600:
+  category-name: "ACTION RELATING TO DEBT"
+  category-description: null
+72010:
+  name: "Material relief assistance and services"
+  description: "Shelter, water, sanitation and health services, supply of medicines and other\n            non-food relief items; assistance to refugees and internally displaced people in\n            developing countries other than for food (72040) or protection (72050)."
+  category: "720:
+  category-name: "Emergency Response"
+  category-description: "An emergency is a situation which results from man made crises and/or\n            natural disasters."
+72040:
+  name: "Emergency food aid"
+  description: "Food aid normally for general free distribution or special supplementary\n            feeding programmes; short-term relief to targeted population groups affected by\n            emergency situations. Excludes non-emergency food security assistance programmes/food\n            aid (52010)."
+  category: "720:
+  category-name: "Emergency Response"
+  category-description: "An emergency is a situation which results from man made crises and/or\n            natural disasters."
+72050:
+  name: "Relief co-ordination; protection and support services"
+  description: "Measures to co-ordinate delivery of humanitarian aid, including logistics and\n            communications systems; measures to promote and protect the safety, well-being, dignity\n            and integrity of civilians and those no longer taking part in hostilities. (Activities\n            designed to protect the security of persons or property through the use or display of\n            force are not reportable as ODA.)"
+  category: "720:
+  category-name: "Emergency Response"
+  category-description: "An emergency is a situation which results from man made crises and/or\n            natural disasters."
+73010:
+  name: "Reconstruction relief and rehabilitation"
+  description: "Short-term reconstruction work after emergency or conflict limited to restoring\n            pre-existing infrastructure (e.g. repair or construction of roads, bridges and ports,\n            restoration of essential facilities, such as water and sanitation, shelter, health care\n            services); social and economic rehabilitation in the aftermath of emergencies to\n            facilitate transition and enable populations to return to their previous livelihood or\n            develop a new livelihood in the wake of an emergency situation (e.g. trauma counselling\n            and treatment, employment programmes)."
+  category: "730:
+  category-name: "Reconstruction relief and rehabilitation"
+  category-description: "This relates to activities during and in the aftermath of an emergency\n            situation. Longer-term activities to improve the level of infrastructure or social\n            services should be reported under the relevant economic and social sector codes. See\n            also guideline on distinguishing humanitarian from sector-allocable\n            aid."
+74010:
+  name: "Disaster prevention and preparedness"
+  description: "Disaster risk reduction activities (e.g. developing knowledge, natural risks\n            cartography, legal norms for construction); early warning systems; emergency contingency\n            stocks and contingency planning including preparations for forced\n            displacement."
+  category: "740:
+  category-name: "Disaster prevention and preparedness"
+  category-description: "See codes 41050 and 15220 for prevention of floods and\n            conflicts."
+91010:
+  name: "Administrative costs"
+  description: null
+  category: "910:
+  category-name: "ADMINISTRATIVE COSTS OF DONORS"
+  category-description: null
+92010:
+  name: "Support to national NGOs"
+  description: "In the donor country."
+  category: "920:
+  category-name: "SUPPORT TO NON- GOVERNMENTAL ORGANISATIONS (NGOs)"
+  category-description: null
+92020:
+  name: "Support to international NGOs"
+  description: null
+  category: "920:
+  category-name: "SUPPORT TO NON- GOVERNMENTAL ORGANISATIONS (NGOs)"
+  category-description: null
+92030:
+  name: "Support to local and regional NGOs"
+  description: "In the recipient country or region."
+  category: "920:
+  category-name: "SUPPORT TO NON- GOVERNMENTAL ORGANISATIONS (NGOs)"
+  category-description: null
+93010:
+  name: "Refugees in donor countries"
+  description: null
+  category: "930:
+  category-name: "REFUGEES IN DONOR COUNTRIES"
+  category-description: null
+99810:
+  name: "Sectors not specified"
+  description: "Contributions to general development of the recipient should be included under\n            programme assistance (51010)."
+  category: "998:
+  category-name: "UNALLOCATED/ UNSPECIFIED"
+  category-description: null
+99820:
+  name: "Promotion of development awareness"
+  description: "Spending in donor country for heightened awareness/interest in development\n            co-operation (brochures, lectures, special research projects, etc.)."
+  category: "998:
+  category-name: "UNALLOCATED/ UNSPECIFIED"
+  category-description: null
